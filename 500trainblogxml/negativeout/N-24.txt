@@ -1,0 +1,6195 @@
+<document id="negative/1377330454097/1377330454097.txt">
+	<content>
+		<sentence number="1">
+			<tok id="1" type="atom" soff="0" eoff="0"><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>Sinitial</f>
+					<f>VirtualObject</f>
+				</fea>
+			</tok>
+			<tok id="961" type="group">
+				<foot/>
+				<tok id="4" type="group">
+					<foot/>
+					<tok id="2" type="atom" soff="0" eoff="3">盘<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok>
+					<lead/>
+					<tok id="3" type="atom" soff="4" eoff="7">面<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok><norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>n</f>
+						<f>NN</f>
+						<f>mb_subj</f>
+						<f>modifier</f>
+					</fea>
+				</tok>
+				<lead/>
+				<tok id="7" type="group">
+					<foot/>
+					<tok id="5" type="atom" soff="8" eoff="11">观<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok>
+					<lead/>
+					<tok id="6" type="atom" soff="12" eoff="15">察<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok><norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>vn</f>
+						<f>head_w</f>
+					</fea>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>NP</f>
+				</fea>
+			</tok>
+			<tok id="8" type="atom" soff="16" eoff="19">，<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wd</f>
+					<f>NEORG_stopword</f>
+					<f>Cfin</f>
+				</fea>
+			</tok>
+			<tok id="11" type="group">
+				<foot/>
+				<tok id="9" type="atom" soff="20" eoff="23">昨<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="10" type="atom" soff="24" eoff="27">天<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>t</f>
+					<f>NeTIME</f>
+				</fea>
+			</tok>
+			<tok id="12" type="atom" soff="28" eoff="31">沪<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>j</f>
+					<f>mb_ignore</f>
+				</fea>
+			</tok>
+			<tok id="13" type="atom" soff="32" eoff="35">指<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+				</fea>
+			</tok>
+			<tok id="14" type="atom" soff="36" eoff="39">低<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>ad</f>
+					<f>mb_ignore</f>
+				</fea>
+			</tok>
+			<tok id="15" type="atom" soff="40" eoff="43">开<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+					<f>qxdc</f>
+				</fea>
+			</tok>
+			<tok id="16" type="atom" soff="44" eoff="47">高<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>ad</f>
+					<f>mb_ignore</f>
+				</fea>
+			</tok>
+			<tok id="17" type="atom" soff="48" eoff="51">走<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+				</fea>
+			</tok>
+			<tok id="18" type="atom" soff="52" eoff="55">，<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wd</f>
+					<f>NEORG_stopword</f>
+					<f>Cfin</f>
+				</fea>
+			</tok>
+			<tok id="21" type="group">
+				<foot/>
+				<tok id="19" type="atom" soff="56" eoff="59">报<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="20" type="atom" soff="60" eoff="63">收<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+					<f>subjectless</f>
+				</fea>
+			</tok>
+			<tok id="962" type="group">
+				<foot/>
+				<tok id="22" type="atom" soff="64" eoff="67">小<norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>a</f>
+						<f>Adj_Age</f>
+					</fea>
+				</tok>
+				<tok id="23" type="atom" soff="68" eoff="71">阳<norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>ag</f>
+						<f>mb_ignore</f>
+						<f>modifier</f>
+					</fea>
+				</tok>
+				<lead/>
+				<tok id="24" type="atom" soff="72" eoff="75">线<norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>n</f>
+						<f>NN</f>
+						<f>head_w</f>
+						<f>mb_subj</f>
+					</fea>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>NP</f>
+				</fea>
+			</tok>
+			<tok id="25" type="atom" soff="76" eoff="79">。<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wj</f>
+					<f>Sfin</f>
+					<f>NEORG_stopword</f>
+				</fea>
+			</tok>
+		</sentence>
+		<sentence number="2">
+			<tok id="26" type="atom" soff="0" eoff="0"><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>Sinitial</f>
+					<f>VirtualObject</f>
+				</fea>
+			</tok>
+			<tok id="27" type="atom" soff="80" eoff="83">从<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>p</f>
+					<f>TONG</f>
+					<f>pHas</f>
+					<f>pHcompare</f>
+				</fea>
+			</tok>
+			<tok id="30" type="group">
+				<foot/>
+				<tok id="28" type="atom" soff="84" eoff="87">数<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="29" type="atom" soff="88" eoff="91">据<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>n</f>
+					<f>NN</f>
+					<f>mb_subj</f>
+				</fea>
+			</tok>
+			<tok id="31" type="atom" soff="92" eoff="95">上<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>m</f>
+					<f>qxdc</f>
+					<f>p_f</f>
+				</fea>
+			</tok>
+			<tok id="32" type="atom" soff="96" eoff="99">看<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+				</fea>
+			</tok>
+			<tok id="33" type="atom" soff="100" eoff="103">，<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wd</f>
+					<f>NEORG_stopword</f>
+					<f>Cfin</f>
+				</fea>
+			</tok>
+			<tok id="36" type="group">
+				<foot/>
+				<tok id="34" type="atom" soff="104" eoff="107">证<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="35" type="atom" soff="108" eoff="111">券<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>n</f>
+					<f>NN</f>
+					<f>mb_subj</f>
+				</fea>
+			</tok>
+			<tok id="37" type="atom" soff="112" eoff="115">，<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wd</f>
+					<f>NEORG_stopword</f>
+					<f>Cfin</f>
+				</fea>
+			</tok>
+			<tok id="40" type="group">
+				<foot/>
+				<tok id="38" type="atom" soff="116" eoff="119">保<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="39" type="atom" soff="120" eoff="123">险<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>n</f>
+					<f>NN</f>
+					<f>mb_subj</f>
+				</fea>
+			</tok>
+			<tok id="41" type="atom" soff="124" eoff="127">，<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wd</f>
+					<f>NEORG_stopword</f>
+					<f>Cfin</f>
+				</fea>
+			</tok>
+			<tok id="963" type="group">
+				<foot/>
+				<tok id="44" type="group">
+					<foot/>
+					<tok id="42" type="atom" soff="128" eoff="131">资<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok>
+					<lead/>
+					<tok id="43" type="atom" soff="132" eoff="135">源<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok><norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>n</f>
+						<f>NN</f>
+						<f>position_prefix</f>
+						<f>mb_subj</f>
+						<f>modifier</f>
+					</fea>
+				</tok>
+				<lead/>
+				<tok id="45" type="atom" soff="136" eoff="139">类<norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>n</f>
+						<f>NN</f>
+						<f>head_w</f>
+						<f>mb_subj</f>
+					</fea>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>NP</f>
+				</fea>
+			</tok>
+			<tok id="48" type="group">
+				<foot/>
+				<tok id="46" type="atom" soff="140" eoff="143">午<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="47" type="atom" soff="144" eoff="147">后<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>t</f>
+					<f>NeTIME</f>
+				</fea>
+			</tok>
+			<tok id="49" type="atom" soff="148" eoff="151">的<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>u</f>
+					<f>DE1</f>
+				</fea>
+			</tok>
+			<tok id="52" type="group">
+				<foot/>
+				<tok id="50" type="atom" soff="152" eoff="155">强<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="51" type="atom" soff="156" eoff="159">势<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>n</f>
+					<f>NN</f>
+					<f>mb_subj</f>
+				</fea>
+			</tok>
+			<tok id="53" type="atom" soff="160" eoff="163">翻<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+				</fea>
+			</tok>
+			<tok id="54" type="atom" soff="164" eoff="167">红<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>a</f>
+				</fea>
+			</tok>
+			<tok id="55" type="atom" soff="168" eoff="171">做<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+				</fea>
+			</tok>
+			<tok id="56" type="atom" soff="172" eoff="175">多<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>a</f>
+				</fea>
+			</tok>
+			<tok id="57" type="atom" soff="176" eoff="179">，<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wd</f>
+					<f>NEORG_stopword</f>
+					<f>Cfin</f>
+				</fea>
+			</tok>
+			<tok id="58" type="atom" soff="180" eoff="183">是<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+					<f>SHI1</f>
+					<f>subjectless</f>
+				</fea>
+			</tok>
+			<tok id="61" type="group">
+				<foot/>
+				<tok id="59" type="atom" soff="184" eoff="187">指<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="60" type="atom" soff="188" eoff="191">数<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>n</f>
+					<f>NN</f>
+					<f>mb_subj</f>
+				</fea>
+			</tok>
+			<tok id="62" type="atom" soff="192" eoff="195">能<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+					<f>nydc</f>
+				</fea>
+			</tok>
+			<tok id="65" type="group">
+				<foot/>
+				<tok id="63" type="atom" soff="196" eoff="199">反<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="64" type="atom" soff="200" eoff="203">弹<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+				</fea>
+			</tok>
+			<tok id="66" type="atom" soff="204" eoff="207">的<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>u</f>
+					<f>DE1</f>
+				</fea>
+			</tok>
+			<tok id="964" type="group">
+				<foot/>
+				<tok id="69" type="group">
+					<foot/>
+					<tok id="67" type="atom" soff="208" eoff="211">主<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok>
+					<lead/>
+					<tok id="68" type="atom" soff="212" eoff="215">要<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok><norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>b</f>
+						<f>modifier</f>
+					</fea>
+				</tok>
+				<lead/>
+				<tok id="72" type="group">
+					<foot/>
+					<tok id="70" type="atom" soff="216" eoff="219">因<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok>
+					<lead/>
+					<tok id="71" type="atom" soff="220" eoff="223">素<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok><norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>n</f>
+						<f>NN</f>
+						<f>head_w</f>
+						<f>mb_subj</f>
+					</fea>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>NP</f>
+				</fea>
+			</tok>
+			<tok id="73" type="atom" soff="224" eoff="227">，<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wd</f>
+					<f>NEORG_stopword</f>
+					<f>Cfin</f>
+				</fea>
+			</tok>
+			<tok id="76" type="group">
+				<foot/>
+				<tok id="74" type="atom" soff="228" eoff="231">涨<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="75" type="atom" soff="232" eoff="235">幅<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>n</f>
+					<f>NN</f>
+					<f>mb_subj</f>
+				</fea>
+			</tok>
+			<tok id="79" type="group">
+				<foot/>
+				<tok id="77" type="atom" soff="236" eoff="239">有<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="78" type="atom" soff="240" eoff="243">限<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>a</f>
+				</fea>
+			</tok>
+			<tok id="80" type="atom" soff="244" eoff="247">则<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>d</f>
+					<f>mb_ignore</f>
+				</fea>
+			</tok>
+			<tok id="81" type="atom" soff="248" eoff="251">是<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+					<f>SHI1</f>
+				</fea>
+			</tok>
+			<tok id="82" type="atom" soff="252" eoff="255">受<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+					<f>sldc</f>
+				</fea>
+			</tok>
+			<tok id="83" type="atom" soff="256" eoff="259">限<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+				</fea>
+			</tok>
+			<tok id="84" type="atom" soff="260" eoff="263">于<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>p</f>
+					<f>YU2</f>
+					<f>pHtime</f>
+					<f>pHas</f>
+				</fea>
+			</tok>
+			<tok id="87" type="group">
+				<foot/>
+				<tok id="85" type="atom" soff="264" eoff="267">银<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="86" type="atom" soff="268" eoff="271">行<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>n</f>
+					<f>NN</f>
+					<f>NeOrg_F</f>
+					<f>NEORG_stopword</f>
+					<f>mb_subj</f>
+				</fea>
+			</tok>
+			<tok id="88" type="atom" soff="272" eoff="275">股<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>q</f>
+				</fea>
+			</tok>
+			<tok id="89" type="atom" soff="276" eoff="279">的<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>u</f>
+					<f>DE1</f>
+				</fea>
+			</tok>
+			<tok id="90" type="atom" soff="280" eoff="283">压<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+				</fea>
+			</tok>
+			<tok id="91" type="atom" soff="284" eoff="287">盘<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>ng</f>
+					<f>NN</f>
+					<f>mb_subj</f>
+				</fea>
+			</tok>
+			<tok id="92" type="atom" soff="288" eoff="291">。<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wj</f>
+					<f>Sfin</f>
+					<f>NEORG_stopword</f>
+				</fea>
+			</tok>
+		</sentence>
+		<sentence number="3">
+			<tok id="93" type="atom" soff="0" eoff="0"><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>Sinitial</f>
+					<f>VirtualObject</f>
+				</fea>
+			</tok>
+			<tok id="94" type="atom" soff="292" eoff="295">沪<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>j</f>
+					<f>mb_ignore</f>
+				</fea>
+			</tok>
+			<tok id="95" type="atom" soff="296" eoff="299">指<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+				</fea>
+			</tok>
+			<tok id="98" type="group">
+				<foot/>
+				<tok id="96" type="atom" soff="300" eoff="303">微<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="97" type="atom" soff="304" eoff="307">涨<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+				</fea>
+			</tok>
+			<tok id="104" type="group">
+				<foot/>
+				<tok id="99" type="atom" soff="308" eoff="309">0<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<tok id="100" type="atom" soff="310" eoff="311">.<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<tok id="101" type="atom" soff="312" eoff="313">6<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<tok id="102" type="atom" soff="314" eoff="315">1<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="103" type="atom" soff="316" eoff="317">%<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>m</f>
+				</fea>
+			</tok>
+			<tok id="105" type="atom" soff="318" eoff="321">，<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wd</f>
+					<f>NEORG_stopword</f>
+					<f>Cfin</f>
+				</fea>
+			</tok>
+			<tok id="108" type="group">
+				<foot/>
+				<tok id="106" type="atom" soff="322" eoff="325">报<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="107" type="atom" soff="326" eoff="329">收<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+					<f>subjectless</f>
+				</fea>
+			</tok>
+			<tok id="116" type="group">
+				<foot/>
+				<tok id="109" type="atom" soff="330" eoff="331">2<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<tok id="110" type="atom" soff="332" eoff="333">0<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<tok id="111" type="atom" soff="334" eoff="335">0<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<tok id="112" type="atom" soff="336" eoff="337">4<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<tok id="113" type="atom" soff="338" eoff="339">.<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<tok id="114" type="atom" soff="340" eoff="341">7<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="115" type="atom" soff="342" eoff="343">6<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>m</f>
+					<f>NeUrl</f>
+					<f>NeCONTACT</f>
+				</fea>
+			</tok>
+			<tok id="117" type="atom" soff="344" eoff="347">，<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wd</f>
+					<f>NEORG_stopword</f>
+					<f>Cfin</f>
+				</fea>
+			</tok>
+			<tok id="121" type="group">
+				<foot/>
+				<tok id="118" type="atom" soff="348" eoff="351">成<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<tok id="119" type="atom" soff="352" eoff="355">交<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="120" type="atom" soff="356" eoff="359">量<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>n</f>
+					<f>NN</f>
+					<f>mb_subj</f>
+				</fea>
+			</tok>
+			<tok id="122" type="atom" soff="360" eoff="363">能<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+					<f>nydc</f>
+				</fea>
+			</tok>
+			<tok id="123" type="atom" soff="364" eoff="367">同<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>p</f>
+					<f>TONG</f>
+					<f>pHas</f>
+					<f>pHcompare</f>
+				</fea>
+			</tok>
+			<tok id="124" type="atom" soff="368" eoff="371">比<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>p</f>
+					<f>pHcompare</f>
+				</fea>
+			</tok>
+			<tok id="128" type="group">
+				<foot/>
+				<tok id="125" type="atom" soff="372" eoff="375">大<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<tok id="126" type="atom" soff="376" eoff="379">幅<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="127" type="atom" soff="380" eoff="383">度<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>d</f>
+					<f>mb_ignore</f>
+				</fea>
+			</tok>
+			<tok id="131" type="group">
+				<foot/>
+				<tok id="129" type="atom" soff="384" eoff="387">萎<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="130" type="atom" soff="388" eoff="391">缩<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+				</fea>
+			</tok>
+			<tok id="132" type="atom" soff="392" eoff="395">，<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wd</f>
+					<f>NEORG_stopword</f>
+					<f>Cfin</f>
+				</fea>
+			</tok>
+			<tok id="133" type="atom" soff="396" eoff="399">沪<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>j</f>
+					<f>ignore</f>
+					<f>mb_ignore</f>
+				</fea>
+			</tok>
+			<tok id="134" type="atom" soff="400" eoff="403">指<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+					<f>subjectless</f>
+				</fea>
+			</tok>
+			<tok id="135" type="atom" soff="404" eoff="407">总<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>d</f>
+					<f>adv_time</f>
+					<f>mb_ignore</f>
+				</fea>
+			</tok>
+			<tok id="138" type="group">
+				<foot/>
+				<tok id="136" type="atom" soff="408" eoff="411">成<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="137" type="atom" soff="412" eoff="415">交<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+				</fea>
+			</tok>
+			<tok id="143" type="group">
+				<foot/>
+				<tok id="139" type="atom" soff="416" eoff="417">6<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<tok id="140" type="atom" soff="418" eoff="419">9<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<tok id="141" type="atom" soff="420" eoff="421">6<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="142" type="atom" soff="422" eoff="425">亿<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>m</f>
+				</fea>
+			</tok>
+			<tok id="144" type="atom" soff="426" eoff="429">。<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wj</f>
+					<f>Sfin</f>
+					<f>NEORG_stopword</f>
+				</fea>
+			</tok>
+		</sentence>
+		<sentence number="4">
+			<tok id="145" type="atom" soff="0" eoff="0"><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>Sinitial</f>
+					<f>VirtualObject</f>
+				</fea>
+			</tok>
+			<tok id="965" type="group">
+				<foot/>
+				<tok id="148" type="group">
+					<foot/>
+					<tok id="146" type="atom" soff="430" eoff="433">技<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok>
+					<lead/>
+					<tok id="147" type="atom" soff="434" eoff="437">术<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok><norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>n</f>
+						<f>NN</f>
+						<f>mb_subj</f>
+						<f>modifier</f>
+					</fea>
+				</tok>
+				<lead/>
+				<tok id="151" type="group">
+					<foot/>
+					<tok id="149" type="atom" soff="438" eoff="441">分<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok>
+					<lead/>
+					<tok id="150" type="atom" soff="442" eoff="445">析<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok><norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>vn</f>
+						<f>head_w</f>
+					</fea>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>NP</f>
+				</fea>
+			</tok>
+			<tok id="152" type="atom" soff="446" eoff="449">，<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wd</f>
+					<f>NEORG_stopword</f>
+					<f>Cfin</f>
+				</fea>
+			</tok>
+			<tok id="153" type="atom" soff="450" eoff="453">如<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+					<f>subjectless</f>
+					<f>pHcompare</f>
+				</fea>
+			</tok>
+			<tok id="154" type="atom" soff="454" eoff="457">图<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>n</f>
+					<f>NN</f>
+					<f>mb_subj</f>
+				</fea>
+			</tok>
+			<tok id="155" type="atom" soff="458" eoff="461">所<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>u</f>
+					<f>SUO</f>
+				</fea>
+			</tok>
+			<tok id="156" type="atom" soff="462" eoff="465">示<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>vg</f>
+				</fea>
+			</tok>
+			<tok id="157" type="atom" soff="466" eoff="469">：<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wm</f>
+					<f>NEORG_stopword</f>
+				</fea>
+			</tok>
+			<tok id="158" type="atom" soff="470" eoff="473">，<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wd</f>
+					<f>NEORG_stopword</f>
+					<f>Cfin</f>
+				</fea>
+			</tok>
+			<tok id="161" type="group">
+				<foot/>
+				<tok id="159" type="atom" soff="474" eoff="477">主<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="160" type="atom" soff="478" eoff="481">要<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>d</f>
+					<f>ignore</f>
+					<f>mb_ignore</f>
+				</fea>
+			</tok>
+			<tok id="162" type="atom" soff="482" eoff="485">就<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>d</f>
+					<f>ignore</f>
+					<f>mb_ignore</f>
+					<f>pHas</f>
+				</fea>
+			</tok>
+			<tok id="163" type="atom" soff="486" eoff="489">是<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+					<f>SHI1</f>
+					<f>subjectless</f>
+				</fea>
+			</tok>
+			<tok id="966" type="group">
+				<foot/>
+				<tok id="167" type="group">
+					<foot/>
+					<tok id="164" type="atom" soff="490" eoff="493">三<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok>
+					<tok id="165" type="atom" soff="494" eoff="497">角<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok>
+					<lead/>
+					<tok id="166" type="atom" soff="498" eoff="501">形<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok><norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>n</f>
+						<f>NN</f>
+						<f>mb_subj</f>
+						<f>modifier</f>
+					</fea>
+				</tok>
+				<tok id="170" type="group">
+					<foot/>
+					<tok id="168" type="atom" soff="502" eoff="505">里<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok>
+					<lead/>
+					<tok id="169" type="atom" soff="506" eoff="509">面<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok><norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>f</f>
+						<f>modifier</f>
+					</fea>
+				</tok>
+				<tok id="171" type="atom" soff="510" eoff="513">的<norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>b</f>
+						<f>DE1</f>
+					</fea>
+				</tok>
+				<lead/>
+				<tok id="174" type="group">
+					<foot/>
+					<tok id="172" type="atom" soff="514" eoff="517">空<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok>
+					<lead/>
+					<tok id="173" type="atom" soff="518" eoff="521">间<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok><norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>n</f>
+						<f>NN</f>
+						<f>head_w</f>
+						<f>mb_subj</f>
+					</fea>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>NP</f>
+				</fea>
+			</tok>
+			<tok id="175" type="atom" soff="522" eoff="525">，<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wd</f>
+					<f>NEORG_stopword</f>
+					<f>Cfin</f>
+				</fea>
+			</tok>
+			<tok id="967" type="group">
+				<foot/>
+				<tok id="178" type="group">
+					<foot/>
+					<tok id="176" type="atom" soff="526" eoff="529">简<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok>
+					<lead/>
+					<tok id="177" type="atom" soff="530" eoff="533">单<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok><norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>a</f>
+						<f>modifier</f>
+					</fea>
+				</tok>
+				<lead/>
+				<tok id="181" type="group">
+					<foot/>
+					<tok id="179" type="atom" soff="534" eoff="537">点<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok>
+					<lead/>
+					<tok id="180" type="atom" soff="538" eoff="541">儿<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok><norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>n</f>
+						<f>NN</f>
+						<f>head_w</f>
+						<f>mb_subj</f>
+					</fea>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>NP</f>
+				</fea>
+			</tok>
+			<tok id="182" type="atom" soff="542" eoff="545">说<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+					<f>xjbydc</f>
+				</fea>
+			</tok>
+			<tok id="183" type="atom" soff="546" eoff="549">，<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wd</f>
+					<f>NEORG_stopword</f>
+					<f>Cfin</f>
+				</fea>
+			</tok>
+			<tok id="184" type="atom" soff="550" eoff="553">就<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>d</f>
+					<f>ignore</f>
+					<f>mb_ignore</f>
+					<f>pHas</f>
+				</fea>
+			</tok>
+			<tok id="185" type="atom" soff="554" eoff="557">是<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+					<f>SHI1</f>
+					<f>subjectless</f>
+				</fea>
+			</tok>
+			<tok id="188" type="group">
+				<foot/>
+				<tok id="186" type="atom" soff="558" eoff="561">指<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="187" type="atom" soff="562" eoff="565">数<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>n</f>
+					<f>NN</f>
+					<f>mb_subj</f>
+				</fea>
+			</tok>
+			<tok id="191" type="group">
+				<foot/>
+				<tok id="189" type="atom" soff="566" eoff="569">如<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="190" type="atom" soff="570" eoff="573">果<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>c</f>
+					<f>lc_js</f>
+					<f>mb_ignore</f>
+				</fea>
+			</tok>
+			<tok id="194" type="group">
+				<foot/>
+				<tok id="192" type="atom" soff="574" eoff="577">真<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="193" type="atom" soff="578" eoff="581">正<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>d</f>
+					<f>mb_ignore</f>
+				</fea>
+			</tok>
+			<tok id="195" type="atom" soff="582" eoff="585">破<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+				</fea>
+			</tok>
+			<tok id="196" type="atom" soff="586" eoff="589">位<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>q</f>
+				</fea>
+			</tok>
+			<tok id="197" type="atom" soff="590" eoff="593">，<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wd</f>
+					<f>NEORG_stopword</f>
+					<f>Cfin</f>
+				</fea>
+			</tok>
+			<tok id="198" type="atom" soff="594" eoff="597">则<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>d</f>
+					<f>ignore</f>
+					<f>mb_ignore</f>
+				</fea>
+			</tok>
+			<tok id="199" type="atom" soff="598" eoff="601">是<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+					<f>subjectless</f>
+				</fea>
+			</tok>
+			<tok id="202" type="group">
+				<foot/>
+				<tok id="200" type="atom" soff="602" eoff="605">看<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="201" type="atom" soff="606" eoff="609">到<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+				</fea>
+			</tok>
+			<tok id="205" type="group">
+				<foot/>
+				<tok id="203" type="atom" soff="610" eoff="611">7<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="204" type="atom" soff="612" eoff="615">月<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm>20130700000000</norm>
+				<tok-normal-forms/>
+				<fea>
+					<f>t</f>
+					<f>NeDat</f>
+					<f>NeMon</f>
+					<f>NeTIME</f>
+				</fea>
+			</tok>
+			<tok id="921" type="group">
+				<foot/>
+				<tok id="206" type="atom" soff="616" eoff="617">9<norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>m</f>
+					</fea>
+				</tok>
+				<lead/>
+				<tok id="207" type="atom" soff="618" eoff="621">号<norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>q</f>
+					</fea>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>NeMes</f>
+				</fea>
+			</tok>
+			<tok id="208" type="atom" soff="622" eoff="625">的<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>u</f>
+				</fea>
+			</tok>
+			<tok id="212" type="group">
+				<foot/>
+				<tok id="209" type="atom" soff="626" eoff="629">最<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<tok id="210" type="atom" soff="630" eoff="633">低<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="211" type="atom" soff="634" eoff="637">点<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>n</f>
+					<f>NN</f>
+					<f>mb_subj</f>
+				</fea>
+			</tok>
+			<tok id="220" type="group">
+				<foot/>
+				<tok id="213" type="atom" soff="638" eoff="639">1<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<tok id="214" type="atom" soff="640" eoff="641">9<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<tok id="215" type="atom" soff="642" eoff="643">4<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<tok id="216" type="atom" soff="644" eoff="645">6<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<tok id="217" type="atom" soff="646" eoff="647">.<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<tok id="218" type="atom" soff="648" eoff="649">3<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="219" type="atom" soff="650" eoff="651">7<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>m</f>
+					<f>NeUrl</f>
+					<f>NeCONTACT</f>
+				</fea>
+			</tok>
+			<tok id="221" type="atom" soff="652" eoff="655">，<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wd</f>
+					<f>NEORG_stopword</f>
+					<f>Cfin</f>
+				</fea>
+			</tok>
+			<tok id="224" type="group">
+				<foot/>
+				<tok id="222" type="atom" soff="656" eoff="659">那<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="223" type="atom" soff="660" eoff="663">么<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>r</f>
+					<f>lc_js</f>
+					<f>mb_subj</f>
+				</fea>
+			</tok>
+			<tok id="225" type="atom" soff="664" eoff="667">才<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>d</f>
+					<f>adv_time</f>
+					<f>mb_ignore</f>
+				</fea>
+			</tok>
+			<tok id="226" type="atom" soff="668" eoff="671">是<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+					<f>SHI1</f>
+				</fea>
+			</tok>
+			<tok id="229" type="group">
+				<foot/>
+				<tok id="227" type="atom" soff="672" eoff="675">真<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="228" type="atom" soff="676" eoff="679">正<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>b</f>
+				</fea>
+			</tok>
+			<tok id="230" type="atom" soff="680" eoff="683">的<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>u</f>
+					<f>DE1</f>
+				</fea>
+			</tok>
+			<tok id="231" type="atom" soff="684" eoff="687">破<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>a</f>
+				</fea>
+			</tok>
+			<tok id="232" type="atom" soff="688" eoff="691">位<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>q</f>
+				</fea>
+			</tok>
+			<tok id="233" type="atom" soff="692" eoff="695">。<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wj</f>
+					<f>Sfin</f>
+					<f>NEORG_stopword</f>
+				</fea>
+			</tok>
+		</sentence>
+		<sentence number="5">
+			<tok id="234" type="atom" soff="0" eoff="0"><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>Sinitial</f>
+					<f>VirtualObject</f>
+				</fea>
+			</tok>
+			<tok id="968" type="group">
+				<foot/>
+				<tok id="237" type="group">
+					<foot/>
+					<tok id="235" type="atom" soff="696" eoff="699">这<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok>
+					<lead/>
+					<tok id="236" type="atom" soff="700" eoff="703">个<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok><norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>r</f>
+						<f>mb_subj</f>
+						<f>modifier</f>
+					</fea>
+				</tok>
+				<lead/>
+				<tok id="238" type="atom" soff="704" eoff="707">图<norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>n</f>
+						<f>NN</f>
+						<f>head_w</f>
+						<f>mb_subj</f>
+					</fea>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>NP</f>
+				</fea>
+			</tok>
+			<tok id="239" type="atom" soff="708" eoff="711">，<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wd</f>
+					<f>NEORG_stopword</f>
+					<f>Cfin</f>
+				</fea>
+			</tok>
+			<tok id="240" type="atom" soff="712" eoff="715">是<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+					<f>SHI1</f>
+					<f>subjectless</f>
+				</fea>
+			</tok>
+			<tok id="969" type="group">
+				<foot/>
+				<tok id="243" type="group">
+					<foot/>
+					<tok id="241" type="atom" soff="716" eoff="719">中<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok>
+					<lead/>
+					<tok id="242" type="atom" soff="720" eoff="723">线<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok><norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>s</f>
+						<f>NN</f>
+						<f>mb_subj</f>
+					</fea>
+				</tok>
+				<tok id="246" type="group">
+					<foot/>
+					<tok id="244" type="atom" soff="724" eoff="727">定<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok>
+					<lead/>
+					<tok id="245" type="atom" soff="728" eoff="731">位<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok><norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>vn</f>
+						<f>modifier</f>
+					</fea>
+				</tok>
+				<lead/>
+				<tok id="247" type="atom" soff="732" eoff="735">图<norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>n</f>
+						<f>NN</f>
+						<f>head_w</f>
+						<f>mb_subj</f>
+					</fea>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>NP</f>
+				</fea>
+			</tok>
+			<tok id="248" type="atom" soff="736" eoff="739">，<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wd</f>
+					<f>NEORG_stopword</f>
+					<f>Cfin</f>
+				</fea>
+			</tok>
+			<tok id="251" type="group">
+				<foot/>
+				<tok id="249" type="atom" soff="740" eoff="743">一<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="250" type="atom" soff="744" eoff="747">般<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>ad</f>
+					<f>bkzc</f>
+					<f>ignore</f>
+					<f>mb_ignore</f>
+				</fea>
+			</tok>
+			<tok id="254" type="group">
+				<foot/>
+				<tok id="252" type="atom" soff="748" eoff="751">来<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="253" type="atom" soff="752" eoff="755">说<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+					<f>subjectless</f>
+				</fea>
+			</tok>
+			<tok id="255" type="atom" soff="756" eoff="759">，<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wd</f>
+					<f>NEORG_stopword</f>
+					<f>Cfin</f>
+				</fea>
+			</tok>
+			<tok id="256" type="atom" soff="760" eoff="763">是<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+					<f>SHI1</f>
+				</fea>
+			</tok>
+			<tok id="257" type="atom" soff="764" eoff="767">我<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>r</f>
+					<f>NN</f>
+					<f>person_w</f>
+					<f>cr_tsc</f>
+					<f>mb_subj</f>
+					<f>Anaphor_person</f>
+					<f>IsAnaphor</f>
+				</fea>
+			</tok>
+			<tok id="258" type="atom" soff="768" eoff="771">用<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+				</fea>
+			</tok>
+			<tok id="259" type="atom" soff="772" eoff="775">来<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>f</f>
+					<f>qxdc</f>
+				</fea>
+			</tok>
+			<tok id="262" type="group">
+				<foot/>
+				<tok id="260" type="atom" soff="776" eoff="779">衡<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="261" type="atom" soff="780" eoff="783">量<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+				</fea>
+			</tok>
+			<tok id="970" type="group">
+				<foot/>
+				<tok id="265" type="group">
+					<foot/>
+					<tok id="263" type="atom" soff="784" eoff="787">中<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok>
+					<lead/>
+					<tok id="264" type="atom" soff="788" eoff="791">线<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok><norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>s</f>
+						<f>NN</f>
+						<f>mb_subj</f>
+						<f>modifier</f>
+					</fea>
+				</tok>
+				<lead/>
+				<tok id="266" type="atom" soff="792" eoff="795">股<norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>n</f>
+						<f>NN</f>
+						<f>head_w</f>
+						<f>mb_subj</f>
+					</fea>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>NP</f>
+				</fea>
+			</tok>
+			<tok id="269" type="group">
+				<foot/>
+				<tok id="267" type="atom" soff="796" eoff="799">是<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="268" type="atom" soff="800" eoff="803">否<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+				</fea>
+			</tok>
+			<tok id="270" type="atom" soff="804" eoff="807">破<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+				</fea>
+			</tok>
+			<tok id="271" type="atom" soff="808" eoff="811">位<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>q</f>
+				</fea>
+			</tok>
+			<tok id="272" type="atom" soff="812" eoff="815">画<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>n</f>
+					<f>NN</f>
+					<f>mb_subj</f>
+				</fea>
+			</tok>
+			<tok id="273" type="atom" soff="816" eoff="819">的<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>u</f>
+					<f>DE1</f>
+				</fea>
+			</tok>
+			<tok id="971" type="group">
+				<foot/>
+				<tok id="276" type="group">
+					<foot/>
+					<tok id="274" type="atom" soff="820" eoff="823">简<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok>
+					<lead/>
+					<tok id="275" type="atom" soff="824" eoff="827">捷<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok><norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>a</f>
+						<f>modifier</f>
+					</fea>
+				</tok>
+				<lead/>
+				<tok id="279" type="group">
+					<foot/>
+					<tok id="277" type="atom" soff="828" eoff="831">图<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok>
+					<lead/>
+					<tok id="278" type="atom" soff="832" eoff="835">形<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok><norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>n</f>
+						<f>NN</f>
+						<f>head_w</f>
+						<f>mb_subj</f>
+					</fea>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>NP</f>
+				</fea>
+			</tok>
+			<tok id="280" type="atom" soff="836" eoff="839">。<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wj</f>
+					<f>Sfin</f>
+					<f>NEORG_stopword</f>
+				</fea>
+			</tok>
+		</sentence>
+		<sentence number="6">
+			<tok id="281" type="atom" soff="0" eoff="0"><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>Sinitial</f>
+					<f>VirtualObject</f>
+				</fea>
+			</tok>
+			<tok id="972" type="group">
+				<foot/>
+				<tok id="284" type="group">
+					<foot/>
+					<tok id="282" type="atom" soff="840" eoff="843">板<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok>
+					<lead/>
+					<tok id="283" type="atom" soff="844" eoff="847">块<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok><norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>n</f>
+						<f>NN</f>
+						<f>mb_subj</f>
+						<f>modifier</f>
+					</fea>
+				</tok>
+				<lead/>
+				<tok id="287" type="group">
+					<foot/>
+					<tok id="285" type="atom" soff="848" eoff="851">分<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok>
+					<lead/>
+					<tok id="286" type="atom" soff="852" eoff="855">析<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok><norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>vn</f>
+						<f>head_w</f>
+					</fea>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>NP</f>
+				</fea>
+			</tok>
+			<tok id="288" type="atom" soff="856" eoff="859">，<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wd</f>
+					<f>NEORG_stopword</f>
+					<f>Cfin</f>
+				</fea>
+			</tok>
+			<tok id="973" type="group">
+				<foot/>
+				<tok id="291" type="group">
+					<foot/>
+					<tok id="289" type="atom" soff="860" eoff="863">创<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok>
+					<lead/>
+					<tok id="290" type="atom" soff="864" eoff="867">业<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok><norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>vn</f>
+						<f>modifier</f>
+					</fea>
+				</tok>
+				<lead/>
+				<tok id="294" type="group">
+					<foot/>
+					<tok id="292" type="atom" soff="868" eoff="871">指<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok>
+					<lead/>
+					<tok id="293" type="atom" soff="872" eoff="875">数<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok><norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>n</f>
+						<f>NN</f>
+						<f>head_w</f>
+						<f>mb_subj</f>
+					</fea>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>NP</f>
+				</fea>
+			</tok>
+			<tok id="297" type="group">
+				<foot/>
+				<tok id="295" type="atom" soff="876" eoff="879">估<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="296" type="atom" soff="880" eoff="883">计<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+				</fea>
+			</tok>
+			<tok id="298" type="atom" soff="884" eoff="887">又<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>d</f>
+					<f>mb_ignore</f>
+				</fea>
+			</tok>
+			<tok id="299" type="atom" soff="888" eoff="891">要<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+					<f>nydc</f>
+				</fea>
+			</tok>
+			<tok id="300" type="atom" soff="892" eoff="895">新<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>a</f>
+				</fea>
+			</tok>
+			<tok id="301" type="atom" soff="896" eoff="899">高<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>a</f>
+				</fea>
+			</tok>
+			<tok id="302" type="atom" soff="900" eoff="903">了<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>y</f>
+					<f>LE</f>
+					<f>NEORG_stopword</f>
+				</fea>
+			</tok>
+			<tok id="303" type="atom" soff="904" eoff="907">，<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wd</f>
+					<f>NEORG_stopword</f>
+					<f>Cfin</f>
+				</fea>
+			</tok>
+			<tok id="306" type="group">
+				<foot/>
+				<tok id="304" type="atom" soff="908" eoff="911">现<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="305" type="atom" soff="912" eoff="915">在<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>t</f>
+					<f>NeTIME</f>
+				</fea>
+			</tok>
+			<tok id="309" type="group">
+				<foot/>
+				<tok id="307" type="atom" soff="916" eoff="919">完<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="308" type="atom" soff="920" eoff="923">全<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>ad</f>
+					<f>mb_ignore</f>
+				</fea>
+			</tok>
+			<tok id="310" type="atom" soff="924" eoff="927">就<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>d</f>
+					<f>mb_ignore</f>
+					<f>pHas</f>
+				</fea>
+			</tok>
+			<tok id="311" type="atom" soff="928" eoff="931">是<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+					<f>SHI1</f>
+				</fea>
+			</tok>
+			<tok id="974" type="group">
+				<foot/>
+				<tok id="315" type="group">
+					<foot/>
+					<tok id="312" type="atom" soff="932" eoff="935">一<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok>
+					<tok id="313" type="atom" soff="936" eoff="939">边<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok>
+					<lead/>
+					<tok id="314" type="atom" soff="940" eoff="943">倒<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok><norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>l</f>
+						<f>modifier</f>
+					</fea>
+				</tok>
+				<tok id="316" type="atom" soff="944" eoff="947">的<norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>u</f>
+						<f>DE1</f>
+					</fea>
+				</tok>
+				<lead/>
+				<tok id="319" type="group">
+					<foot/>
+					<tok id="317" type="atom" soff="948" eoff="951">趋<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok>
+					<lead/>
+					<tok id="318" type="atom" soff="952" eoff="955">势<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok><norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>n</f>
+						<f>NN</f>
+						<f>head_w</f>
+						<f>mb_subj</f>
+					</fea>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>NP</f>
+				</fea>
+			</tok>
+			<tok id="320" type="atom" soff="956" eoff="959">，<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wd</f>
+					<f>NEORG_stopword</f>
+					<f>Cfin</f>
+				</fea>
+			</tok>
+			<tok id="321" type="atom" soff="960" eoff="963">就<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>d</f>
+					<f>ignore</f>
+					<f>mb_ignore</f>
+					<f>pHas</f>
+				</fea>
+			</tok>
+			<tok id="322" type="atom" soff="964" eoff="967">是<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+					<f>SHI1</f>
+					<f>subjectless</f>
+				</fea>
+			</tok>
+			<tok id="325" type="group">
+				<foot/>
+				<tok id="323" type="atom" soff="968" eoff="971">背<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="324" type="atom" soff="972" eoff="975">离<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+				</fea>
+			</tok>
+			<tok id="328" type="group">
+				<foot/>
+				<tok id="326" type="atom" soff="976" eoff="979">非<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="327" type="atom" soff="980" eoff="983">常<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>d</f>
+					<f>mb_ignore</f>
+				</fea>
+			</tok>
+			<tok id="331" type="group">
+				<foot/>
+				<tok id="329" type="atom" soff="984" eoff="987">严<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="330" type="atom" soff="988" eoff="991">重<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>a</f>
+				</fea>
+			</tok>
+			<tok id="332" type="atom" soff="992" eoff="995">，<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wd</f>
+					<f>NEORG_stopword</f>
+					<f>Cfin</f>
+				</fea>
+			</tok>
+			<tok id="975" type="group">
+				<foot/>
+				<tok id="333" type="atom" soff="996" eoff="999">短<norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>a</f>
+					</fea>
+				</tok>
+				<tok id="334" type="atom" soff="1000" eoff="1003">线<norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>n</f>
+						<f>NN</f>
+						<f>mb_subj</f>
+					</fea>
+				</tok>
+				<tok id="337" type="group">
+					<foot/>
+					<tok id="335" type="atom" soff="1004" eoff="1007">主<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok>
+					<lead/>
+					<tok id="336" type="atom" soff="1008" eoff="1011">流<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok><norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>n</f>
+						<f>NN</f>
+						<f>mb_subj</f>
+						<f>modifier</f>
+					</fea>
+				</tok>
+				<lead/>
+				<tok id="340" type="group">
+					<foot/>
+					<tok id="338" type="atom" soff="1012" eoff="1015">资<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok>
+					<lead/>
+					<tok id="339" type="atom" soff="1016" eoff="1019">金<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok><norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>n</f>
+						<f>NN</f>
+						<f>head_w</f>
+						<f>mb_subj</f>
+					</fea>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>NP</f>
+				</fea>
+			</tok>
+			<tok id="341" type="atom" soff="1020" eoff="1023">还<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>d</f>
+					<f>mb_ignore</f>
+				</fea>
+			</tok>
+			<tok id="342" type="atom" soff="1024" eoff="1027">是<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+					<f>SHI1</f>
+				</fea>
+			</tok>
+			<tok id="345" type="group">
+				<foot/>
+				<tok id="343" type="atom" soff="1028" eoff="1031">围<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="344" type="atom" soff="1032" eoff="1035">绕<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+				</fea>
+			</tok>
+			<tok id="346" type="atom" soff="1036" eoff="1039">在<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>p</f>
+					<f>ZAI1</f>
+					<f>pHloc</f>
+					<f>pHtime</f>
+					<f>pHas</f>
+				</fea>
+			</tok>
+			<tok id="349" type="group">
+				<foot/>
+				<tok id="347" type="atom" soff="1040" eoff="1043">科<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="348" type="atom" soff="1044" eoff="1047">技<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>n</f>
+					<f>NN</f>
+					<f>mb_subj</f>
+				</fea>
+			</tok>
+			<tok id="350" type="atom" soff="1048" eoff="1051">股<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>q</f>
+				</fea>
+			</tok>
+			<tok id="351" type="atom" soff="1052" eoff="1055">（<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wkz</f>
+					<f>NEORG_stopword</f>
+				</fea>
+			</tok>
+			<tok id="354" type="group">
+				<foot/>
+				<tok id="352" type="atom" soff="1056" eoff="1059">包<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="353" type="atom" soff="1060" eoff="1063">括<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+					<f>subjectless</f>
+					<f>wkn</f>
+				</fea>
+			</tok>
+			<tok id="357" type="group">
+				<foot/>
+				<tok id="355" type="atom" soff="1064" eoff="1065">4<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="356" type="atom" soff="1066" eoff="1067">G<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>nx</f>
+					<f>wkn</f>
+				</fea>
+			</tok>
+			<tok id="358" type="atom" soff="1068" eoff="1071">，<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wd</f>
+					<f>wkn</f>
+					<f>NEORG_stopword</f>
+					<f>Cfin</f>
+				</fea>
+			</tok>
+			<tok id="361" type="group">
+				<foot/>
+				<tok id="359" type="atom" soff="1072" eoff="1075">智<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="360" type="atom" soff="1076" eoff="1079">能<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>n</f>
+					<f>NN</f>
+					<f>wkn</f>
+					<f>mb_subj</f>
+				</fea>
+			</tok>
+			<tok id="362" type="atom" soff="1080" eoff="1083">，<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wd</f>
+					<f>wkn</f>
+					<f>NEORG_stopword</f>
+					<f>Cfin</f>
+				</fea>
+			</tok>
+			<tok id="976" type="group">
+				<foot/>
+				<tok id="365" type="group">
+					<foot/>
+					<tok id="363" type="atom" soff="1084" eoff="1087">网<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok>
+					<lead/>
+					<tok id="364" type="atom" soff="1088" eoff="1091">络<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok><norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>n</f>
+						<f>NN</f>
+						<f>wkn</f>
+						<f>mb_subj</f>
+						<f>modifier</f>
+					</fea>
+				</tok>
+				<lead/>
+				<tok id="368" type="group">
+					<foot/>
+					<tok id="366" type="atom" soff="1092" eoff="1095">通<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok>
+					<lead/>
+					<tok id="367" type="atom" soff="1096" eoff="1099">信<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok><norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>vn</f>
+						<f>wkn</f>
+						<f>head_w</f>
+					</fea>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>NP</f>
+				</fea>
+			</tok>
+			<tok id="369" type="atom" soff="1100" eoff="1103">等<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>u</f>
+					<f>wkn</f>
+					<f>DENG</f>
+					<f>NEORG_stopword</f>
+				</fea>
+			</tok>
+			<tok id="370" type="atom" soff="1104" eoff="1107">）<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wky</f>
+					<f>NEORG_stopword</f>
+				</fea>
+			</tok>
+			<tok id="371" type="atom" soff="1108" eoff="1111">，<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wd</f>
+					<f>NEORG_stopword</f>
+					<f>Cfin</f>
+				</fea>
+			</tok>
+			<tok id="374" type="group">
+				<foot/>
+				<tok id="372" type="atom" soff="1112" eoff="1115">其<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="373" type="atom" soff="1116" eoff="1119">次<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>c</f>
+					<f>ignore</f>
+					<f>mb_ignore</f>
+				</fea>
+			</tok>
+			<tok id="375" type="atom" soff="1120" eoff="1123">就<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>d</f>
+					<f>ignore</f>
+					<f>mb_ignore</f>
+					<f>pHas</f>
+				</fea>
+			</tok>
+			<tok id="376" type="atom" soff="1124" eoff="1127">是<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+					<f>SHI1</f>
+					<f>subjectless</f>
+				</fea>
+			</tok>
+			<tok id="977" type="group">
+				<foot/>
+				<tok id="379" type="group">
+					<foot/>
+					<tok id="377" type="atom" soff="1128" eoff="1131">传<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok>
+					<lead/>
+					<tok id="378" type="atom" soff="1132" eoff="1135">媒<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok><norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>n</f>
+						<f>NN</f>
+						<f>mb_subj</f>
+						<f>modifier</f>
+					</fea>
+				</tok>
+				<lead/>
+				<tok id="382" type="group">
+					<foot/>
+					<tok id="380" type="atom" soff="1136" eoff="1139">板<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok>
+					<lead/>
+					<tok id="381" type="atom" soff="1140" eoff="1143">块<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok><norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>n</f>
+						<f>NN</f>
+						<f>head_w</f>
+						<f>mb_subj</f>
+					</fea>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>NP</f>
+				</fea>
+			</tok>
+			<tok id="383" type="atom" soff="1144" eoff="1147">，<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wd</f>
+					<f>NEORG_stopword</f>
+					<f>Cfin</f>
+				</fea>
+			</tok>
+			<tok id="384" type="atom" soff="1148" eoff="1151">再<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>d</f>
+					<f>ignore</f>
+					<f>mb_ignore</f>
+				</fea>
+			</tok>
+			<tok id="387" type="group">
+				<foot/>
+				<tok id="385" type="atom" soff="1152" eoff="1155">延<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="386" type="atom" soff="1156" eoff="1159">伸<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+					<f>subjectless</f>
+				</fea>
+			</tok>
+			<tok id="388" type="atom" soff="1160" eoff="1163">到<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+					<f>DAO</f>
+				</fea>
+			</tok>
+			<tok id="978" type="group">
+				<foot/>
+				<tok id="392" type="group">
+					<foot/>
+					<tok id="389" type="atom" soff="1164" eoff="1167">机<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok>
+					<tok id="390" type="atom" soff="1168" eoff="1171">器<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok>
+					<lead/>
+					<tok id="391" type="atom" soff="1172" eoff="1175">人<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok><norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>n</f>
+						<f>NN</f>
+						<f>mb_subj</f>
+						<f>modifier</f>
+					</fea>
+				</tok>
+				<lead/>
+				<tok id="395" type="group">
+					<foot/>
+					<tok id="393" type="atom" soff="1176" eoff="1179">概<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok>
+					<lead/>
+					<tok id="394" type="atom" soff="1180" eoff="1183">念<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok><norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>n</f>
+						<f>NN</f>
+						<f>head_w</f>
+						<f>mb_subj</f>
+					</fea>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>NP</f>
+				</fea>
+			</tok>
+			<tok id="396" type="atom" soff="1184" eoff="1187">等<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>u</f>
+					<f>DENG</f>
+					<f>NEORG_stopword</f>
+				</fea>
+			</tok>
+			<tok id="397" type="atom" soff="1188" eoff="1191">，<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wd</f>
+					<f>NEORG_stopword</f>
+					<f>Cfin</f>
+				</fea>
+			</tok>
+			<tok id="400" type="group">
+				<foot/>
+				<tok id="398" type="atom" soff="1192" eoff="1195">基<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="399" type="atom" soff="1196" eoff="1199">本<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>a</f>
+				</fea>
+			</tok>
+			<tok id="401" type="atom" soff="1200" eoff="1203">上<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>m</f>
+					<f>qxdc</f>
+					<f>p_f</f>
+				</fea>
+			</tok>
+			<tok id="402" type="atom" soff="1204" eoff="1207">，<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wd</f>
+					<f>NEORG_stopword</f>
+					<f>Cfin</f>
+				</fea>
+			</tok>
+			<tok id="405" type="group">
+				<foot/>
+				<tok id="403" type="atom" soff="1208" eoff="1211">上<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="404" type="atom" soff="1212" eoff="1215">涨<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+				</fea>
+			</tok>
+			<tok id="406" type="atom" soff="1216" eoff="1219">的<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>u</f>
+					<f>DE1</f>
+				</fea>
+			</tok>
+			<tok id="407" type="atom" soff="1220" eoff="1223">全<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>a</f>
+				</fea>
+			</tok>
+			<tok id="408" type="atom" soff="1224" eoff="1227">是<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+					<f>SHI1</f>
+				</fea>
+			</tok>
+			<tok id="411" type="group">
+				<foot/>
+				<tok id="409" type="atom" soff="1228" eoff="1231">题<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="410" type="atom" soff="1232" eoff="1235">材<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>n</f>
+					<f>NN</f>
+					<f>mb_subj</f>
+				</fea>
+			</tok>
+			<tok id="412" type="atom" soff="1236" eoff="1239">股<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>q</f>
+				</fea>
+			</tok>
+			<tok id="413" type="atom" soff="1240" eoff="1243">，<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wd</f>
+					<f>NEORG_stopword</f>
+					<f>Cfin</f>
+				</fea>
+			</tok>
+			<tok id="416" type="group">
+				<foot/>
+				<tok id="414" type="atom" soff="1244" eoff="1247">除<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="415" type="atom" soff="1248" eoff="1251">了<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>p</f>
+					<f>pHunless</f>
+				</fea>
+			</tok>
+			<tok id="419" type="group">
+				<foot/>
+				<tok id="417" type="atom" soff="1252" eoff="1255">题<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="418" type="atom" soff="1256" eoff="1259">材<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>n</f>
+					<f>NN</f>
+					<f>mb_subj</f>
+				</fea>
+			</tok>
+			<tok id="420" type="atom" soff="1260" eoff="1263">股<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>q</f>
+				</fea>
+			</tok>
+			<tok id="423" type="group">
+				<foot/>
+				<tok id="421" type="atom" soff="1264" eoff="1267">以<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="422" type="atom" soff="1268" eoff="1271">外<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>f</f>
+				</fea>
+			</tok>
+			<tok id="424" type="atom" soff="1272" eoff="1275">，<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wd</f>
+					<f>NEORG_stopword</f>
+					<f>Cfin</f>
+				</fea>
+			</tok>
+			<tok id="427" type="group">
+				<foot/>
+				<tok id="425" type="atom" soff="1276" eoff="1279">指<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="426" type="atom" soff="1280" eoff="1283">标<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>n</f>
+					<f>NN</f>
+					<f>mb_subj</f>
+				</fea>
+			</tok>
+			<tok id="428" type="atom" soff="1284" eoff="1287">股<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>q</f>
+				</fea>
+			</tok>
+			<tok id="431" type="group">
+				<foot/>
+				<tok id="429" type="atom" soff="1288" eoff="1291">表<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="430" type="atom" soff="1292" eoff="1295">现<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+				</fea>
+			</tok>
+			<tok id="432" type="atom" soff="1296" eoff="1299">都<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>d</f>
+					<f>mb_ignore</f>
+				</fea>
+			</tok>
+			<tok id="433" type="atom" soff="1300" eoff="1303">很<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>d</f>
+					<f>adv_degree</f>
+					<f>mb_ignore</f>
+				</fea>
+			</tok>
+			<tok id="434" type="atom" soff="1304" eoff="1307">弱<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>a</f>
+				</fea>
+			</tok>
+			<tok id="435" type="atom" soff="1308" eoff="1311">，<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wd</f>
+					<f>NEORG_stopword</f>
+					<f>Cfin</f>
+				</fea>
+			</tok>
+			<tok id="438" type="group">
+				<foot/>
+				<tok id="436" type="atom" soff="1312" eoff="1315">偶<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="437" type="atom" soff="1316" eoff="1319">尔<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>d</f>
+					<f>ignore</f>
+					<f>mb_ignore</f>
+				</fea>
+			</tok>
+			<tok id="441" type="group">
+				<foot/>
+				<tok id="439" type="atom" soff="1320" eoff="1323">客<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="440" type="atom" soff="1324" eoff="1327">串<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+					<f>subjectless</f>
+				</fea>
+			</tok>
+			<tok id="442" type="atom" soff="1328" eoff="1331">下<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>f</f>
+					<f>qxdc</f>
+					<f>p_f</f>
+				</fea>
+			</tok>
+			<tok id="443" type="atom" soff="1332" eoff="1335">，<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wd</f>
+					<f>NEORG_stopword</f>
+					<f>Cfin</f>
+				</fea>
+			</tok>
+			<tok id="444" type="atom" soff="1336" eoff="1339">但<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>c</f>
+					<f>ignore</f>
+					<f>mb_ignore</f>
+				</fea>
+			</tok>
+			<tok id="445" type="atom" soff="1340" eoff="1343">不<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>d</f>
+					<f>negation</f>
+					<f>ignore</f>
+					<f>mb_ignore</f>
+				</fea>
+			</tok>
+			<tok id="446" type="atom" soff="1344" eoff="1347">是<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+					<f>SHI1</f>
+					<f>subjectless</f>
+					<f>negative</f>
+				</fea>
+			</tok>
+			<tok id="979" type="group">
+				<foot/>
+				<tok id="449" type="group">
+					<foot/>
+					<tok id="447" type="atom" soff="1348" eoff="1351">游<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok>
+					<lead/>
+					<tok id="448" type="atom" soff="1352" eoff="1355">资<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok><norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>n</f>
+						<f>NN</f>
+						<f>mb_subj</f>
+						<f>modifier</f>
+					</fea>
+				</tok>
+				<lead/>
+				<tok id="452" type="group">
+					<foot/>
+					<tok id="450" type="atom" soff="1356" eoff="1359">资<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok>
+					<lead/>
+					<tok id="451" type="atom" soff="1360" eoff="1363">金<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok><norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>n</f>
+						<f>NN</f>
+						<f>head_w</f>
+						<f>mb_subj</f>
+					</fea>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>NP</f>
+				</fea>
+			</tok>
+			<tok id="453" type="atom" soff="1364" eoff="1367">在<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>p</f>
+					<f>ZAI1</f>
+					<f>pHloc</f>
+					<f>pHtime</f>
+					<f>pHas</f>
+				</fea>
+			</tok>
+			<tok id="456" type="group">
+				<foot/>
+				<tok id="454" type="atom" soff="1368" eoff="1371">关<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="455" type="atom" soff="1372" eoff="1375">注<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+				</fea>
+			</tok>
+			<tok id="457" type="atom" soff="1376" eoff="1379">，<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wd</f>
+					<f>NEORG_stopword</f>
+					<f>Cfin</f>
+				</fea>
+			</tok>
+			<tok id="458" type="atom" soff="1380" eoff="1383">更<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>d</f>
+					<f>adv_degree</f>
+					<f>mb_ignore</f>
+				</fea>
+			</tok>
+			<tok id="459" type="atom" soff="1384" eoff="1387">多<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>a</f>
+				</fea>
+			</tok>
+			<tok id="460" type="atom" soff="1388" eoff="1391">的<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>u</f>
+					<f>DE1</f>
+				</fea>
+			</tok>
+			<tok id="461" type="atom" soff="1392" eoff="1395">是<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+					<f>SHI1</f>
+				</fea>
+			</tok>
+			<tok id="922" type="group">
+				<foot/>
+				<tok id="462" type="atom" soff="1396" eoff="1399">一<norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>m</f>
+					</fea>
+				</tok>
+				<lead/>
+				<tok id="463" type="atom" soff="1400" eoff="1403">种<norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>q</f>
+					</fea>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>NeMes</f>
+				</fea>
+			</tok>
+			<tok id="466" type="group">
+				<foot/>
+				<tok id="464" type="atom" soff="1404" eoff="1407">自<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="465" type="atom" soff="1408" eoff="1411">救<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>vn</f>
+				</fea>
+			</tok>
+			<tok id="467" type="atom" soff="1412" eoff="1415">的<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>u</f>
+					<f>DE1</f>
+				</fea>
+			</tok>
+			<tok id="470" type="group">
+				<foot/>
+				<tok id="468" type="atom" soff="1416" eoff="1419">表<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="469" type="atom" soff="1420" eoff="1423">现<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>vn</f>
+				</fea>
+			</tok>
+			<tok id="471" type="atom" soff="1424" eoff="1427">，<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wd</f>
+					<f>NEORG_stopword</f>
+					<f>Cfin</f>
+				</fea>
+			</tok>
+			<tok id="474" type="group">
+				<foot/>
+				<tok id="472" type="atom" soff="1428" eoff="1431">意<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="473" type="atom" soff="1432" eoff="1435">义<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>n</f>
+					<f>NN</f>
+					<f>mb_subj</f>
+				</fea>
+			</tok>
+			<tok id="475" type="atom" soff="1436" eoff="1439">并<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>c</f>
+					<f>jwlc</f>
+					<f>mb_ignore</f>
+				</fea>
+			</tok>
+			<tok id="476" type="atom" soff="1440" eoff="1443">不<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>d</f>
+					<f>negation</f>
+					<f>mb_ignore</f>
+				</fea>
+			</tok>
+			<tok id="477" type="atom" soff="1444" eoff="1447">大<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>a</f>
+					<f>Adj_Age</f>
+				</fea>
+			</tok>
+			<tok id="478" type="atom" soff="1448" eoff="1451">。<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wj</f>
+					<f>Sfin</f>
+					<f>NEORG_stopword</f>
+				</fea>
+			</tok>
+		</sentence>
+		<sentence number="7">
+			<tok id="479" type="atom" soff="0" eoff="0"><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>Sinitial</f>
+					<f>VirtualObject</f>
+				</fea>
+			</tok>
+			<tok id="482" type="group">
+				<foot/>
+				<tok id="480" type="atom" soff="1452" eoff="1455">今<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="481" type="atom" soff="1456" eoff="1459">天<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>t</f>
+					<f>NeTIME</f>
+				</fea>
+			</tok>
+			<tok id="485" type="group">
+				<foot/>
+				<tok id="483" type="atom" soff="1460" eoff="1463">大<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="484" type="atom" soff="1464" eoff="1467">盘<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>n</f>
+					<f>NN</f>
+					<f>mb_subj</f>
+				</fea>
+			</tok>
+			<tok id="488" type="group">
+				<foot/>
+				<tok id="486" type="atom" soff="1468" eoff="1471">怎<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="487" type="atom" soff="1472" eoff="1475">么<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>r</f>
+					<f>mb_subj</f>
+				</fea>
+			</tok>
+			<tok id="489" type="atom" soff="1476" eoff="1479">走<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+				</fea>
+			</tok>
+			<tok id="490" type="atom" soff="1480" eoff="1483">？<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>ww</f>
+					<f>Sfin</f>
+					<f>NEORG_stopword</f>
+				</fea>
+			</tok>
+		</sentence>
+		<sentence number="8">
+			<tok id="491" type="atom" soff="0" eoff="0"><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>Sinitial</f>
+					<f>VirtualObject</f>
+				</fea>
+			</tok>
+			<tok id="494" type="group">
+				<foot/>
+				<tok id="492" type="atom" soff="1484" eoff="1487">虽<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="493" type="atom" soff="1488" eoff="1491">然<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>c</f>
+					<f>jjlc</f>
+					<f>mb_ignore</f>
+				</fea>
+			</tok>
+			<tok id="497" type="group">
+				<foot/>
+				<tok id="495" type="atom" soff="1492" eoff="1495">昨<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="496" type="atom" soff="1496" eoff="1499">天<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>t</f>
+					<f>NeTIME</f>
+				</fea>
+			</tok>
+			<tok id="498" type="atom" soff="1500" eoff="1503">以<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>p</f>
+					<f>pHreason</f>
+				</fea>
+			</tok>
+			<tok id="980" type="group">
+				<foot/>
+				<tok id="501" type="group">
+					<foot/>
+					<tok id="499" type="atom" soff="1504" eoff="1507">实<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok>
+					<lead/>
+					<tok id="500" type="atom" soff="1508" eoff="1511">体<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok><norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>n</f>
+						<f>NN</f>
+						<f>mb_subj</f>
+					</fea>
+				</tok>
+				<tok id="502" type="atom" soff="1512" eoff="1515">阳<norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>ag</f>
+						<f>mb_ignore</f>
+						<f>modifier</f>
+					</fea>
+				</tok>
+				<lead/>
+				<tok id="503" type="atom" soff="1516" eoff="1519">线<norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>n</f>
+						<f>NN</f>
+						<f>head_w</f>
+						<f>mb_subj</f>
+					</fea>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>NP</f>
+				</fea>
+			</tok>
+			<tok id="506" type="group">
+				<foot/>
+				<tok id="504" type="atom" soff="1520" eoff="1523">报<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="505" type="atom" soff="1524" eoff="1527">收<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+				</fea>
+			</tok>
+			<tok id="507" type="atom" soff="1528" eoff="1531">，<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wd</f>
+					<f>NEORG_stopword</f>
+					<f>Cfin</f>
+				</fea>
+			</tok>
+			<tok id="508" type="atom" soff="1532" eoff="1535">但<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>c</f>
+					<f>mb_ignore</f>
+				</fea>
+			</tok>
+			<tok id="511" type="group">
+				<foot/>
+				<tok id="509" type="atom" soff="1536" eoff="1539">隐<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="510" type="atom" soff="1540" eoff="1543">患<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>n</f>
+					<f>NN</f>
+					<f>mb_subj</f>
+				</fea>
+			</tok>
+			<tok id="514" type="group">
+				<foot/>
+				<tok id="512" type="atom" soff="1544" eoff="1547">还<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="513" type="atom" soff="1548" eoff="1551">是<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>c</f>
+					<f>mb_ignore</f>
+				</fea>
+			</tok>
+			<tok id="515" type="atom" soff="1552" eoff="1555">不<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>d</f>
+					<f>negation</f>
+					<f>mb_ignore</f>
+				</fea>
+			</tok>
+			<tok id="516" type="atom" soff="1556" eoff="1559">少<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>a</f>
+				</fea>
+			</tok>
+			<tok id="517" type="atom" soff="1560" eoff="1563">。<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wj</f>
+					<f>Sfin</f>
+					<f>NEORG_stopword</f>
+				</fea>
+			</tok>
+		</sentence>
+		<sentence number="9">
+			<tok id="518" type="atom" soff="0" eoff="0"><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>Sinitial</f>
+					<f>VirtualObject</f>
+				</fea>
+			</tok>
+			<tok id="519" type="atom" soff="1564" eoff="1565">1<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>m</f>
+				</fea>
+			</tok>
+			<tok id="520" type="atom" soff="1566" eoff="1569">，<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wd</f>
+					<f>NEORG_stopword</f>
+					<f>Cfin</f>
+				</fea>
+			</tok>
+			<tok id="523" type="group">
+				<foot/>
+				<tok id="521" type="atom" soff="1570" eoff="1573">指<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="522" type="atom" soff="1574" eoff="1577">标<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>n</f>
+					<f>NN</f>
+					<f>mb_subj</f>
+				</fea>
+			</tok>
+			<tok id="524" type="atom" soff="1578" eoff="1581">股<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>q</f>
+				</fea>
+			</tok>
+			<tok id="527" type="group">
+				<foot/>
+				<tok id="525" type="atom" soff="1582" eoff="1585">属<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="526" type="atom" soff="1586" eoff="1589">于<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+				</fea>
+			</tok>
+			<tok id="530" type="group">
+				<foot/>
+				<tok id="528" type="atom" soff="1590" eoff="1593">被<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="529" type="atom" soff="1594" eoff="1597">动<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>ad</f>
+					<f>mb_ignore</f>
+				</fea>
+			</tok>
+			<tok id="531" type="atom" soff="1598" eoff="1601">拉<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+					<f>sldc</f>
+				</fea>
+			</tok>
+			<tok id="532" type="atom" soff="1602" eoff="1605">升<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+				</fea>
+			</tok>
+			<tok id="533" type="atom" soff="1606" eoff="1609">，<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wd</f>
+					<f>NEORG_stopword</f>
+					<f>Cfin</f>
+				</fea>
+			</tok>
+			<tok id="536" type="group">
+				<foot/>
+				<tok id="534" type="atom" soff="1610" eoff="1613">因<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="535" type="atom" soff="1614" eoff="1617">为<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>c</f>
+					<f>lc_yg</f>
+					<f>mb_ignore</f>
+				</fea>
+			</tok>
+			<tok id="539" type="group">
+				<foot/>
+				<tok id="537" type="atom" soff="1618" eoff="1621">题<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="538" type="atom" soff="1622" eoff="1625">材<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>n</f>
+					<f>NN</f>
+					<f>mb_subj</f>
+				</fea>
+			</tok>
+			<tok id="540" type="atom" soff="1626" eoff="1629">股<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>q</f>
+				</fea>
+			</tok>
+			<tok id="981" type="group">
+				<foot/>
+				<tok id="541" type="atom" soff="1630" eoff="1633">太<norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>j</f>
+						<f>mb_ignore</f>
+						<f>modifier</f>
+					</fea>
+				</tok>
+				<lead/>
+				<tok id="544" type="group">
+					<foot/>
+					<tok id="542" type="atom" soff="1634" eoff="1637">强<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok>
+					<lead/>
+					<tok id="543" type="atom" soff="1638" eoff="1641">势<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok><norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>n</f>
+						<f>NN</f>
+						<f>head_w</f>
+						<f>mb_subj</f>
+					</fea>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>NP</f>
+				</fea>
+			</tok>
+			<tok id="545" type="atom" soff="1642" eoff="1645">了<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>y</f>
+				</fea>
+			</tok>
+			<tok id="546" type="atom" soff="1646" eoff="1649">，<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wd</f>
+					<f>NEORG_stopword</f>
+					<f>Cfin</f>
+				</fea>
+			</tok>
+			<tok id="549" type="group">
+				<foot/>
+				<tok id="547" type="atom" soff="1650" eoff="1653">所<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="548" type="atom" soff="1654" eoff="1657">以<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>c</f>
+					<f>ignore</f>
+					<f>lc_yg</f>
+					<f>mb_ignore</f>
+				</fea>
+			</tok>
+			<tok id="552" type="group">
+				<foot/>
+				<tok id="550" type="atom" soff="1658" eoff="1661">出<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="551" type="atom" soff="1662" eoff="1665">现<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+					<f>subjectless</f>
+				</fea>
+			</tok>
+			<tok id="982" type="group">
+				<foot/>
+				<tok id="555" type="group">
+					<foot/>
+					<tok id="553" type="atom" soff="1666" eoff="1669">自<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok>
+					<lead/>
+					<tok id="554" type="atom" soff="1670" eoff="1673">救<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok><norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>vn</f>
+						<f>modifier</f>
+					</fea>
+				</tok>
+				<lead/>
+				<tok id="558" type="group">
+					<foot/>
+					<tok id="556" type="atom" soff="1674" eoff="1677">资<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok>
+					<lead/>
+					<tok id="557" type="atom" soff="1678" eoff="1681">金<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok><norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>n</f>
+						<f>NN</f>
+						<f>Ifin</f>
+						<f>NEORG_stopword</f>
+						<f>head_w</f>
+						<f>mb_subj</f>
+					</fea>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>NP</f>
+				</fea>
+			</tok>
+			<tok id="559" type="atom" soff="1682" eoff="1685">。<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wj</f>
+					<f>Sfin</f>
+					<f>NEORG_stopword</f>
+				</fea>
+			</tok>
+		</sentence>
+		<sentence number="10">
+			<tok id="560" type="atom" soff="0" eoff="0"><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>Sinitial</f>
+					<f>VirtualObject</f>
+				</fea>
+			</tok>
+			<tok id="561" type="atom" soff="1686" eoff="1687">2<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>m</f>
+				</fea>
+			</tok>
+			<tok id="562" type="atom" soff="1688" eoff="1691">，<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wd</f>
+					<f>NEORG_stopword</f>
+					<f>Cfin</f>
+				</fea>
+			</tok>
+			<tok id="563" type="atom" soff="1692" eoff="1695">量<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>n</f>
+					<f>NN</f>
+					<f>mb_subj</f>
+				</fea>
+			</tok>
+			<tok id="564" type="atom" soff="1696" eoff="1699">能<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+					<f>nydc</f>
+				</fea>
+			</tok>
+			<tok id="568" type="group">
+				<foot/>
+				<tok id="565" type="atom" soff="1700" eoff="1703">大<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<tok id="566" type="atom" soff="1704" eoff="1707">幅<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="567" type="atom" soff="1708" eoff="1711">度<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>d</f>
+					<f>mb_ignore</f>
+				</fea>
+			</tok>
+			<tok id="571" type="group">
+				<foot/>
+				<tok id="569" type="atom" soff="1712" eoff="1715">萎<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="570" type="atom" soff="1716" eoff="1719">缩<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+				</fea>
+			</tok>
+			<tok id="572" type="atom" soff="1720" eoff="1723">，<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wd</f>
+					<f>NEORG_stopword</f>
+					<f>Cfin</f>
+				</fea>
+			</tok>
+			<tok id="575" type="group">
+				<foot/>
+				<tok id="573" type="atom" soff="1724" eoff="1727">如<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="574" type="atom" soff="1728" eoff="1731">果<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>c</f>
+					<f>jjlc</f>
+					<f>ignore</f>
+					<f>mb_ignore</f>
+				</fea>
+			</tok>
+			<tok id="578" type="group">
+				<foot/>
+				<tok id="576" type="atom" soff="1732" eoff="1735">真<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="577" type="atom" soff="1736" eoff="1739">正<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>d</f>
+					<f>ignore</f>
+					<f>mb_ignore</f>
+				</fea>
+			</tok>
+			<tok id="579" type="atom" soff="1740" eoff="1743">要<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+					<f>nydc</f>
+					<f>subjectless</f>
+				</fea>
+			</tok>
+			<tok id="582" type="group">
+				<foot/>
+				<tok id="580" type="atom" soff="1744" eoff="1747">强<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="581" type="atom" soff="1748" eoff="1751">势<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>n</f>
+					<f>NN</f>
+					<f>mb_subj</f>
+				</fea>
+			</tok>
+			<tok id="583" type="atom" soff="1752" eoff="1755">，<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wd</f>
+					<f>Ifin</f>
+					<f>NEORG_stopword</f>
+					<f>Cfin</f>
+				</fea>
+			</tok>
+			<tok id="586" type="group">
+				<foot/>
+				<tok id="584" type="atom" soff="1756" eoff="1759">这<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="585" type="atom" soff="1760" eoff="1763">个<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>r</f>
+					<f>mb_subj</f>
+				</fea>
+			</tok>
+			<tok id="589" type="group">
+				<foot/>
+				<tok id="587" type="atom" soff="1764" eoff="1767">低<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="588" type="atom" soff="1768" eoff="1771">于<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+				</fea>
+			</tok>
+			<tok id="594" type="group">
+				<foot/>
+				<tok id="590" type="atom" soff="1772" eoff="1773">7<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<tok id="591" type="atom" soff="1774" eoff="1775">0<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<tok id="592" type="atom" soff="1776" eoff="1777">0<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="593" type="atom" soff="1778" eoff="1781">亿<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>m</f>
+				</fea>
+			</tok>
+			<tok id="595" type="atom" soff="1782" eoff="1785">的<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>u</f>
+					<f>DE1</f>
+				</fea>
+			</tok>
+			<tok id="596" type="atom" soff="1786" eoff="1789">量<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>n</f>
+					<f>NN</f>
+					<f>mb_subj</f>
+				</fea>
+			</tok>
+			<tok id="597" type="atom" soff="1790" eoff="1793">能<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+					<f>nydc</f>
+				</fea>
+			</tok>
+			<tok id="598" type="atom" soff="1794" eoff="1797">，<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wd</f>
+					<f>NEORG_stopword</f>
+					<f>Cfin</f>
+				</fea>
+			</tok>
+			<tok id="601" type="group">
+				<foot/>
+				<tok id="599" type="atom" soff="1798" eoff="1801">真<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="600" type="atom" soff="1802" eoff="1805">是<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>d</f>
+					<f>ignore</f>
+					<f>mb_ignore</f>
+				</fea>
+			</tok>
+			<tok id="602" type="atom" soff="1806" eoff="1809">不<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>d</f>
+					<f>negation</f>
+					<f>ignore</f>
+					<f>mb_ignore</f>
+				</fea>
+			</tok>
+			<tok id="603" type="atom" soff="1810" eoff="1813">靠<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+					<f>subjectless</f>
+					<f>negative</f>
+				</fea>
+			</tok>
+			<tok id="604" type="atom" soff="1814" eoff="1817">谱<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>ng</f>
+					<f>NN</f>
+					<f>mb_subj</f>
+				</fea>
+			</tok>
+			<tok id="605" type="atom" soff="1818" eoff="1821">。<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wj</f>
+					<f>Sfin</f>
+					<f>NEORG_stopword</f>
+				</fea>
+			</tok>
+		</sentence>
+		<sentence number="11">
+			<tok id="606" type="atom" soff="0" eoff="0"><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>Sinitial</f>
+					<f>VirtualObject</f>
+				</fea>
+			</tok>
+			<tok id="607" type="atom" soff="1822" eoff="1825">这<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>r</f>
+					<f>mb_subj</f>
+				</fea>
+			</tok>
+			<tok id="610" type="group">
+				<foot/>
+				<tok id="608" type="atom" soff="1826" eoff="1829">二<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="609" type="atom" soff="1830" eoff="1833">点<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>t</f>
+					<f>NeTIME</f>
+				</fea>
+			</tok>
+			<tok id="611" type="atom" soff="1834" eoff="1837">，<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wd</f>
+					<f>NEORG_stopword</f>
+					<f>Cfin</f>
+				</fea>
+			</tok>
+			<tok id="614" type="group">
+				<foot/>
+				<tok id="612" type="atom" soff="1838" eoff="1841">决<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="613" type="atom" soff="1842" eoff="1845">定<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+					<f>subjectless</f>
+				</fea>
+			</tok>
+			<tok id="615" type="atom" soff="1846" eoff="1849">了<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>u</f>
+					<f>LE</f>
+					<f>NEORG_stopword</f>
+				</fea>
+			</tok>
+			<tok id="618" type="group">
+				<foot/>
+				<tok id="616" type="atom" soff="1850" eoff="1853">今<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="617" type="atom" soff="1854" eoff="1857">天<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>t</f>
+					<f>NeTIME</f>
+				</fea>
+			</tok>
+			<tok id="621" type="group">
+				<foot/>
+				<tok id="619" type="atom" soff="1858" eoff="1861">大<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="620" type="atom" soff="1862" eoff="1865">盘<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>n</f>
+					<f>NN</f>
+					<f>mb_subj</f>
+				</fea>
+			</tok>
+			<tok id="622" type="atom" soff="1866" eoff="1869">还<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>d</f>
+					<f>mb_ignore</f>
+				</fea>
+			</tok>
+			<tok id="623" type="atom" soff="1870" eoff="1873">是<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+					<f>SHI1</f>
+				</fea>
+			</tok>
+			<tok id="624" type="atom" soff="1874" eoff="1877">很<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>d</f>
+					<f>adv_degree</f>
+					<f>mb_ignore</f>
+				</fea>
+			</tok>
+			<tok id="625" type="atom" soff="1878" eoff="1881">难<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>a</f>
+				</fea>
+			</tok>
+			<tok id="628" type="group">
+				<foot/>
+				<tok id="626" type="atom" soff="1882" eoff="1885">真<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="627" type="atom" soff="1886" eoff="1889">正<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>d</f>
+					<f>mb_ignore</f>
+				</fea>
+			</tok>
+			<tok id="629" type="atom" soff="1890" eoff="1893">走<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+				</fea>
+			</tok>
+			<tok id="630" type="atom" soff="1894" eoff="1897">出<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+					<f>qxdc</f>
+				</fea>
+			</tok>
+			<tok id="983" type="group">
+				<foot/>
+				<tok id="633" type="group">
+					<foot/>
+					<tok id="631" type="atom" soff="1898" eoff="1901">什<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok>
+					<lead/>
+					<tok id="632" type="atom" soff="1902" eoff="1905">么<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok><norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>r</f>
+						<f>shenm</f>
+						<f>mb_subj</f>
+					</fea>
+				</tok>
+				<tok id="634" type="atom" soff="1906" eoff="1909">大<norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>a</f>
+						<f>Adj_Age</f>
+					</fea>
+				</tok>
+				<tok id="637" type="group">
+					<foot/>
+					<tok id="635" type="atom" soff="1910" eoff="1913">反<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok>
+					<lead/>
+					<tok id="636" type="atom" soff="1914" eoff="1917">弹<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok><norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>vn</f>
+						<f>modifier</f>
+					</fea>
+				</tok>
+				<lead/>
+				<tok id="640" type="group">
+					<foot/>
+					<tok id="638" type="atom" soff="1918" eoff="1921">行<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok>
+					<lead/>
+					<tok id="639" type="atom" soff="1922" eoff="1925">情<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok><norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>n</f>
+						<f>NN</f>
+						<f>head_w</f>
+						<f>mb_subj</f>
+					</fea>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>NP</f>
+				</fea>
+			</tok>
+			<tok id="641" type="atom" soff="1926" eoff="1929">。<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wj</f>
+					<f>Sfin</f>
+					<f>NEORG_stopword</f>
+				</fea>
+			</tok>
+		</sentence>
+		<sentence number="12">
+			<tok id="642" type="atom" soff="0" eoff="0"><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>Sinitial</f>
+					<f>VirtualObject</f>
+				</fea>
+			</tok>
+			<tok id="645" type="group">
+				<foot/>
+				<tok id="643" type="atom" soff="1930" eoff="1933">如<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="644" type="atom" soff="1934" eoff="1937">果<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>c</f>
+					<f>lc_js</f>
+					<f>mb_ignore</f>
+				</fea>
+			</tok>
+			<tok id="648" type="group">
+				<foot/>
+				<tok id="646" type="atom" soff="1938" eoff="1941">今<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="647" type="atom" soff="1942" eoff="1945">天<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>t</f>
+					<f>NeTIME</f>
+				</fea>
+			</tok>
+			<tok id="651" type="group">
+				<foot/>
+				<tok id="649" type="atom" soff="1946" eoff="1949">大<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="650" type="atom" soff="1950" eoff="1953">盘<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>n</f>
+					<f>NN</f>
+					<f>mb_subj</f>
+				</fea>
+			</tok>
+			<tok id="654" type="group">
+				<foot/>
+				<tok id="652" type="atom" soff="1954" eoff="1957">真<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="653" type="atom" soff="1958" eoff="1961">正<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>d</f>
+					<f>mb_ignore</f>
+				</fea>
+			</tok>
+			<tok id="655" type="atom" soff="1962" eoff="1965">要<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+					<f>nydc</f>
+				</fea>
+			</tok>
+			<tok id="658" type="group">
+				<foot/>
+				<tok id="656" type="atom" soff="1966" eoff="1969">强<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="657" type="atom" soff="1970" eoff="1973">势<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>n</f>
+					<f>NN</f>
+					<f>mb_subj</f>
+				</fea>
+			</tok>
+			<tok id="659" type="atom" soff="1974" eoff="1977">，<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wd</f>
+					<f>Ifin</f>
+					<f>NEORG_stopword</f>
+					<f>Cfin</f>
+				</fea>
+			</tok>
+			<tok id="662" type="group">
+				<foot/>
+				<tok id="660" type="atom" soff="1978" eoff="1981">那<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="661" type="atom" soff="1982" eoff="1985">么<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>r</f>
+					<f>lc_js</f>
+					<f>mb_subj</f>
+				</fea>
+			</tok>
+			<tok id="665" type="group">
+				<foot/>
+				<tok id="663" type="atom" soff="1986" eoff="1989">必<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="664" type="atom" soff="1990" eoff="1993">须<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>d</f>
+					<f>mb_ignore</f>
+				</fea>
+			</tok>
+			<tok id="668" type="group">
+				<foot/>
+				<tok id="666" type="atom" soff="1994" eoff="1997">突<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="667" type="atom" soff="1998" eoff="2001">破<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+				</fea>
+			</tok>
+			<tok id="673" type="group">
+				<foot/>
+				<tok id="669" type="atom" soff="2002" eoff="2003">2<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<tok id="670" type="atom" soff="2004" eoff="2005">0<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<tok id="671" type="atom" soff="2006" eoff="2007">2<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="672" type="atom" soff="2008" eoff="2009">0<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>m</f>
+				</fea>
+			</tok>
+			<tok id="984" type="group">
+				<foot/>
+				<tok id="676" type="group">
+					<foot/>
+					<tok id="674" type="atom" soff="2010" eoff="2013">这<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok>
+					<lead/>
+					<tok id="675" type="atom" soff="2014" eoff="2017">个<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok><norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>r</f>
+						<f>mb_subj</f>
+						<f>modifier</f>
+					</fea>
+				</tok>
+				<lead/>
+				<tok id="679" type="group">
+					<foot/>
+					<tok id="677" type="atom" soff="2018" eoff="2021">位<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok>
+					<lead/>
+					<tok id="678" type="atom" soff="2022" eoff="2025">置<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok><norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>n</f>
+						<f>NN</f>
+						<f>head_w</f>
+						<f>mb_subj</f>
+					</fea>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>NP</f>
+				</fea>
+			</tok>
+			<tok id="680" type="atom" soff="2026" eoff="2029">站<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+					<f>NeOrg_F</f>
+					<f>NEORG_stopword</f>
+				</fea>
+			</tok>
+			<tok id="681" type="atom" soff="2030" eoff="2033">稳<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>an</f>
+				</fea>
+			</tok>
+			<tok id="682" type="atom" soff="2034" eoff="2037">，<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wd</f>
+					<f>NEORG_stopword</f>
+					<f>Cfin</f>
+				</fea>
+			</tok>
+			<tok id="683" type="atom" soff="2038" eoff="2041">且<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>c</f>
+					<f>ignore</f>
+					<f>mb_ignore</f>
+				</fea>
+			</tok>
+			<tok id="684" type="atom" soff="2042" eoff="2045">要<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+					<f>nydc</f>
+					<f>subjectless</f>
+				</fea>
+			</tok>
+			<tok id="685" type="atom" soff="2046" eoff="2049">放<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+				</fea>
+			</tok>
+			<tok id="686" type="atom" soff="2050" eoff="2053">量<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>n</f>
+					<f>NN</f>
+					<f>mb_subj</f>
+				</fea>
+			</tok>
+			<tok id="687" type="atom" soff="2054" eoff="2057">，<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wd</f>
+					<f>NEORG_stopword</f>
+					<f>Cfin</f>
+				</fea>
+			</tok>
+			<tok id="688" type="atom" soff="2058" eoff="2061">才<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>d</f>
+					<f>adv_time</f>
+					<f>ignore</f>
+					<f>mb_ignore</f>
+				</fea>
+			</tok>
+			<tok id="689" type="atom" soff="2062" eoff="2065">有<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+					<f>YOU1</f>
+					<f>subjectless</f>
+				</fea>
+			</tok>
+			<tok id="692" type="group">
+				<foot/>
+				<tok id="690" type="atom" soff="2066" eoff="2069">机<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="691" type="atom" soff="2070" eoff="2073">会<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>n</f>
+					<f>NN</f>
+					<f>mb_subj</f>
+				</fea>
+			</tok>
+			<tok id="693" type="atom" soff="2074" eoff="2077">。<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wj</f>
+					<f>Sfin</f>
+					<f>NEORG_stopword</f>
+				</fea>
+			</tok>
+		</sentence>
+		<sentence number="13">
+			<tok id="694" type="atom" soff="0" eoff="0"><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>Sinitial</f>
+					<f>VirtualObject</f>
+				</fea>
+			</tok>
+			<tok id="697" type="group">
+				<foot/>
+				<tok id="695" type="atom" soff="2078" eoff="2081">否<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="696" type="atom" soff="2082" eoff="2085">则<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>c</f>
+					<f>mb_ignore</f>
+				</fea>
+			</tok>
+			<tok id="698" type="atom" soff="2086" eoff="2089">看<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+				</fea>
+			</tok>
+			<tok id="699" type="atom" soff="2090" eoff="2093">淡<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>dg</f>
+				</fea>
+			</tok>
+			<tok id="702" type="group">
+				<foot/>
+				<tok id="700" type="atom" soff="2094" eoff="2097">为<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="701" type="atom" soff="2098" eoff="2101">主<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+				</fea>
+			</tok>
+			<tok id="703" type="atom" soff="2102" eoff="2105">。<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wj</f>
+					<f>Sfin</f>
+					<f>NEORG_stopword</f>
+				</fea>
+			</tok>
+		</sentence>
+		<sentence number="14">
+			<tok id="704" type="atom" soff="0" eoff="0"><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>Sinitial</f>
+					<f>VirtualObject</f>
+				</fea>
+			</tok>
+			<tok id="985" type="group">
+				<foot/>
+				<tok id="705" type="atom" soff="2106" eoff="2109">短<norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>a</f>
+						<f>modifier</f>
+					</fea>
+				</tok>
+				<lead/>
+				<tok id="706" type="atom" soff="2110" eoff="2113">线<norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>n</f>
+						<f>NN</f>
+						<f>head_w</f>
+						<f>mb_subj</f>
+					</fea>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>NP</f>
+				</fea>
+			</tok>
+			<tok id="707" type="atom" soff="2114" eoff="2117">的<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>u</f>
+					<f>DE1</f>
+				</fea>
+			</tok>
+			<tok id="986" type="group">
+				<foot/>
+				<tok id="710" type="group">
+					<foot/>
+					<tok id="708" type="atom" soff="2118" eoff="2121">操<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok>
+					<lead/>
+					<tok id="709" type="atom" soff="2122" eoff="2125">作<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok><norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>vn</f>
+						<f>modifier</f>
+					</fea>
+				</tok>
+				<lead/>
+				<tok id="713" type="group">
+					<foot/>
+					<tok id="711" type="atom" soff="2126" eoff="2129">策<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok>
+					<lead/>
+					<tok id="712" type="atom" soff="2130" eoff="2133">略<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok><norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>n</f>
+						<f>NN</f>
+						<f>head_w</f>
+						<f>mb_subj</f>
+					</fea>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>NP</f>
+				</fea>
+			</tok>
+			<tok id="714" type="atom" soff="2134" eoff="2137">，<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wd</f>
+					<f>Ifin</f>
+					<f>NEORG_stopword</f>
+					<f>Cfin</f>
+				</fea>
+			</tok>
+			<tok id="715" type="atom" soff="2138" eoff="2141">还<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>d</f>
+					<f>ignore</f>
+					<f>mb_ignore</f>
+				</fea>
+			</tok>
+			<tok id="716" type="atom" soff="2142" eoff="2145">是<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+					<f>SHI1</f>
+					<f>subjectless</f>
+				</fea>
+			</tok>
+			<tok id="719" type="group">
+				<foot/>
+				<tok id="717" type="atom" soff="2146" eoff="2149">主<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="718" type="atom" soff="2150" eoff="2153">攻<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>vn</f>
+				</fea>
+			</tok>
+			<tok id="987" type="group">
+				<foot/>
+				<tok id="722" type="group">
+					<foot/>
+					<tok id="720" type="atom" soff="2154" eoff="2157">中<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok>
+					<lead/>
+					<tok id="721" type="atom" soff="2158" eoff="2161">小<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok><norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>b</f>
+						<f>modifier</f>
+					</fea>
+				</tok>
+				<lead/>
+				<tok id="723" type="atom" soff="2162" eoff="2165">板<norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>ng</f>
+						<f>NN</f>
+						<f>head_w</f>
+						<f>mb_subj</f>
+					</fea>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>NP</f>
+				</fea>
+			</tok>
+			<tok id="724" type="atom" soff="2166" eoff="2169">，<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wd</f>
+					<f>NEORG_stopword</f>
+					<f>Cfin</f>
+				</fea>
+			</tok>
+			<tok id="727" type="group">
+				<foot/>
+				<tok id="725" type="atom" soff="2170" eoff="2173">创<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="726" type="atom" soff="2174" eoff="2177">业<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+					<f>subjectless</f>
+				</fea>
+			</tok>
+			<tok id="728" type="atom" soff="2178" eoff="2181">板<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>ng</f>
+					<f>NN</f>
+					<f>mb_subj</f>
+				</fea>
+			</tok>
+			<tok id="729" type="atom" soff="2182" eoff="2185">。<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wj</f>
+					<f>Sfin</f>
+					<f>NEORG_stopword</f>
+				</fea>
+			</tok>
+		</sentence>
+		<sentence number="15">
+			<tok id="730" type="atom" soff="0" eoff="0"><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>Sinitial</f>
+					<f>VirtualObject</f>
+				</fea>
+			</tok>
+			<tok id="988" type="group">
+				<foot/>
+				<tok id="733" type="group">
+					<foot/>
+					<tok id="731" type="atom" soff="2186" eoff="2189">指<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok>
+					<lead/>
+					<tok id="732" type="atom" soff="2190" eoff="2193">标<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok><norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>n</f>
+						<f>NN</f>
+						<f>mb_subj</f>
+						<f>modifier</f>
+					</fea>
+				</tok>
+				<lead/>
+				<tok id="736" type="group">
+					<foot/>
+					<tok id="734" type="atom" soff="2194" eoff="2197">板<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok>
+					<lead/>
+					<tok id="735" type="atom" soff="2198" eoff="2201">块<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok><norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>n</f>
+						<f>NN</f>
+						<f>head_w</f>
+						<f>mb_subj</f>
+					</fea>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>NP</f>
+				</fea>
+			</tok>
+			<tok id="737" type="atom" soff="2202" eoff="2205">，<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wd</f>
+					<f>NEORG_stopword</f>
+					<f>Cfin</f>
+				</fea>
+			</tok>
+			<tok id="738" type="atom" soff="2206" eoff="2209">在<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>p</f>
+					<f>ZAI1</f>
+					<f>pHloc</f>
+					<f>pHtime</f>
+					<f>pHas</f>
+				</fea>
+			</tok>
+			<tok id="739" type="atom" soff="2210" eoff="2213">量<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>n</f>
+					<f>NN</f>
+					<f>mb_subj</f>
+				</fea>
+			</tok>
+			<tok id="740" type="atom" soff="2214" eoff="2217">能<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+					<f>nydc</f>
+				</fea>
+			</tok>
+			<tok id="743" type="group">
+				<foot/>
+				<tok id="741" type="atom" soff="2218" eoff="2221">低<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="742" type="atom" soff="2222" eoff="2225">于<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+				</fea>
+			</tok>
+			<tok id="749" type="group">
+				<foot/>
+				<tok id="744" type="atom" soff="2226" eoff="2227">1<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<tok id="745" type="atom" soff="2228" eoff="2229">0<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<tok id="746" type="atom" soff="2230" eoff="2231">0<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<tok id="747" type="atom" soff="2232" eoff="2233">0<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="748" type="atom" soff="2234" eoff="2237">亿<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>m</f>
+				</fea>
+			</tok>
+			<tok id="750" type="atom" soff="2238" eoff="2241">的<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>u</f>
+					<f>DE1</f>
+				</fea>
+			</tok>
+			<tok id="753" type="group">
+				<foot/>
+				<tok id="751" type="atom" soff="2242" eoff="2245">时<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="752" type="atom" soff="2246" eoff="2249">候<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>n</f>
+					<f>NN</f>
+					<f>mb_subj</f>
+				</fea>
+			</tok>
+			<tok id="754" type="atom" soff="2250" eoff="2253">，<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wd</f>
+					<f>Ifin</f>
+					<f>NEORG_stopword</f>
+					<f>Cfin</f>
+				</fea>
+			</tok>
+			<tok id="755" type="atom" soff="2254" eoff="2257">个<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>q</f>
+				</fea>
+			</tok>
+			<tok id="756" type="atom" soff="2258" eoff="2261">人<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>n</f>
+					<f>NN</f>
+					<f>mb_subj</f>
+					<f>title_w</f>
+				</fea>
+			</tok>
+			<tok id="757" type="atom" soff="2262" eoff="2265">不<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>d</f>
+					<f>negation</f>
+					<f>mb_ignore</f>
+				</fea>
+			</tok>
+			<tok id="760" type="group">
+				<foot/>
+				<tok id="758" type="atom" soff="2266" eoff="2269">参<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="759" type="atom" soff="2270" eoff="2273">与<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+					<f>negative</f>
+				</fea>
+			</tok>
+			<tok id="761" type="atom" soff="2274" eoff="2277">。<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wj</f>
+					<f>Sfin</f>
+					<f>NEORG_stopword</f>
+				</fea>
+			</tok>
+		</sentence>
+		<sentence number="16">
+			<tok id="762" type="atom" soff="0" eoff="0"><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>Sinitial</f>
+					<f>VirtualObject</f>
+				</fea>
+			</tok>
+			<tok id="916" type="group">
+				<foot/>
+				<tok id="765" type="group">
+					<foot/>
+					<tok id="763" type="atom" soff="2278" eoff="2281">今<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok>
+					<lead/>
+					<tok id="764" type="atom" soff="2282" eoff="2285">天<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok><norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>t</f>
+					</fea>
+				</tok>
+				<lead/>
+				<tok id="766" type="atom" soff="2286" eoff="2289">点<norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>t</f>
+					</fea>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>NeTIME</f>
+				</fea>
+			</tok>
+			<tok id="767" type="atom" soff="2290" eoff="2293">位<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>ng</f>
+					<f>NN</f>
+					<f>mb_subj</f>
+				</fea>
+			</tok>
+			<tok id="768" type="atom" soff="2294" eoff="2297">，<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wd</f>
+					<f>NEORG_stopword</f>
+					<f>Cfin</f>
+				</fea>
+			</tok>
+			<tok id="771" type="group">
+				<foot/>
+				<tok id="769" type="atom" soff="2298" eoff="2301">压<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="770" type="atom" soff="2302" eoff="2305">力<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>n</f>
+					<f>NN</f>
+					<f>mb_subj</f>
+				</fea>
+			</tok>
+			<tok id="776" type="group">
+				<foot/>
+				<tok id="772" type="atom" soff="2306" eoff="2307">2<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<tok id="773" type="atom" soff="2308" eoff="2309">0<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<tok id="774" type="atom" soff="2310" eoff="2311">2<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="775" type="atom" soff="2312" eoff="2313">0<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>m</f>
+				</fea>
+			</tok>
+			<tok id="777" type="atom" soff="2314" eoff="2317">，<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wd</f>
+					<f>NEORG_stopword</f>
+					<f>Cfin</f>
+				</fea>
+			</tok>
+			<tok id="780" type="group">
+				<foot/>
+				<tok id="778" type="atom" soff="2318" eoff="2321">支<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="779" type="atom" soff="2322" eoff="2325">撑<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+					<f>subjectless</f>
+				</fea>
+			</tok>
+			<tok id="785" type="group">
+				<foot/>
+				<tok id="781" type="atom" soff="2326" eoff="2327">1<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<tok id="782" type="atom" soff="2328" eoff="2329">9<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<tok id="783" type="atom" soff="2330" eoff="2331">9<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="784" type="atom" soff="2332" eoff="2333">2<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>m</f>
+				</fea>
+			</tok>
+			<tok id="786" type="atom" soff="2334" eoff="2337">，<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wd</f>
+					<f>Ifin</f>
+					<f>NEORG_stopword</f>
+					<f>Cfin</f>
+				</fea>
+			</tok>
+			<tok id="989" type="group">
+				<foot/>
+				<tok id="787" type="atom" soff="2338" eoff="2341">这<norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>r</f>
+						<f>mb_subj</f>
+					</fea>
+				</tok>
+				<tok id="923" type="group">
+					<foot/>
+					<tok id="788" type="atom" soff="2342" eoff="2345">二<norm/>
+						<tok-normal-forms/>
+						<fea>
+							<f>m</f>
+						</fea>
+					</tok>
+					<lead/>
+					<tok id="789" type="atom" soff="2346" eoff="2349">个<norm/>
+						<tok-normal-forms/>
+						<fea>
+							<f>q</f>
+						</fea>
+					</tok><norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>NeMes</f>
+					</fea>
+				</tok>
+				<lead/>
+				<tok id="792" type="group">
+					<foot/>
+					<tok id="790" type="atom" soff="2350" eoff="2353">位<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok>
+					<lead/>
+					<tok id="791" type="atom" soff="2354" eoff="2357">置<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok><norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>n</f>
+						<f>NN</f>
+						<f>head_w</f>
+						<f>mb_subj</f>
+					</fea>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>NP</f>
+				</fea>
+			</tok>
+			<tok id="795" type="group">
+				<foot/>
+				<tok id="793" type="atom" soff="2358" eoff="2361">得<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="794" type="atom" soff="2362" eoff="2365">失<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>n</f>
+					<f>NN</f>
+					<f>mb_subj</f>
+				</fea>
+			</tok>
+			<tok id="796" type="atom" soff="2366" eoff="2369">都<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>d</f>
+					<f>mb_ignore</f>
+				</fea>
+			</tok>
+			<tok id="797" type="atom" soff="2370" eoff="2373">是<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+					<f>SHI1</f>
+				</fea>
+			</tok>
+			<tok id="990" type="group">
+				<foot/>
+				<tok id="800" type="group">
+					<foot/>
+					<tok id="798" type="atom" soff="2374" eoff="2377">一<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok>
+					<lead/>
+					<tok id="799" type="atom" soff="2378" eoff="2381">个<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok><norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>m</f>
+					</fea>
+				</tok>
+				<tok id="803" type="group">
+					<foot/>
+					<tok id="801" type="atom" soff="2382" eoff="2385">关<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok>
+					<lead/>
+					<tok id="802" type="atom" soff="2386" eoff="2389">键<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok><norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>a</f>
+						<f>modifier</f>
+					</fea>
+				</tok>
+				<tok id="804" type="atom" soff="2390" eoff="2393">的<norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>u</f>
+						<f>DE1</f>
+					</fea>
+				</tok>
+				<lead/>
+				<tok id="808" type="group">
+					<foot/>
+					<tok id="805" type="atom" soff="2394" eoff="2397">转<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok>
+					<tok id="806" type="atom" soff="2398" eoff="2401">折<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok>
+					<lead/>
+					<tok id="807" type="atom" soff="2402" eoff="2405">点<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok><norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>n</f>
+						<f>NN</f>
+						<f>head_w</f>
+						<f>mb_subj</f>
+					</fea>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>NP</f>
+				</fea>
+			</tok>
+			<tok id="809" type="atom" soff="2406" eoff="2409">。<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wj</f>
+					<f>Sfin</f>
+					<f>NEORG_stopword</f>
+				</fea>
+			</tok>
+		</sentence>
+		<sentence number="17">
+			<tok id="810" type="atom" soff="0" eoff="0"><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>Sinitial</f>
+					<f>VirtualObject</f>
+				</fea>
+			</tok>
+			<tok id="811" type="atom" soff="2410" eoff="2413">不<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>d</f>
+					<f>negation</f>
+					<f>mb_ignore</f>
+				</fea>
+			</tok>
+			<tok id="812" type="atom" soff="2414" eoff="2417">破<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+					<f>negative</f>
+				</fea>
+			</tok>
+			<tok id="817" type="group">
+				<foot/>
+				<tok id="813" type="atom" soff="2418" eoff="2419">1<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<tok id="814" type="atom" soff="2420" eoff="2421">9<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<tok id="815" type="atom" soff="2422" eoff="2423">9<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="816" type="atom" soff="2424" eoff="2425">2<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>m</f>
+				</fea>
+			</tok>
+			<tok id="818" type="atom" soff="2426" eoff="2429">，<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wd</f>
+					<f>NEORG_stopword</f>
+					<f>Cfin</f>
+				</fea>
+			</tok>
+			<tok id="819" type="atom" soff="2430" eoff="2433">持<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+					<f>subjectless</f>
+				</fea>
+			</tok>
+			<tok id="991" type="group">
+				<foot/>
+				<tok id="820" type="atom" soff="2434" eoff="2437">股<norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>n</f>
+						<f>NN</f>
+						<f>head_w</f>
+						<f>mb_subj</f>
+					</fea>
+				</tok>
+				<lead/>
+				<tok id="821" type="atom" soff="2438" eoff="2441">者<norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>k</f>
+						<f>modifier</f>
+					</fea>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>NP</f>
+				</fea>
+			</tok>
+			<tok id="824" type="group">
+				<foot/>
+				<tok id="822" type="atom" soff="2442" eoff="2445">可<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="823" type="atom" soff="2446" eoff="2449">以<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+					<f>nydc</f>
+				</fea>
+			</tok>
+			<tok id="825" type="atom" soff="2450" eoff="2453">持<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+				</fea>
+			</tok>
+			<tok id="826" type="atom" soff="2454" eoff="2457">股<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>q</f>
+				</fea>
+			</tok>
+			<tok id="829" type="group">
+				<foot/>
+				<tok id="827" type="atom" soff="2458" eoff="2461">为<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="828" type="atom" soff="2462" eoff="2465">主<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+				</fea>
+			</tok>
+			<tok id="830" type="atom" soff="2466" eoff="2469">。<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wj</f>
+					<f>Sfin</f>
+					<f>NEORG_stopword</f>
+				</fea>
+			</tok>
+		</sentence>
+		<sentence number="18">
+			<tok id="831" type="atom" soff="0" eoff="0"><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>Sinitial</f>
+					<f>VirtualObject</f>
+				</fea>
+			</tok>
+			<tok id="992" type="group">
+				<foot/>
+				<tok id="834" type="group">
+					<foot/>
+					<tok id="832" type="atom" soff="2470" eoff="2473">其<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok>
+					<lead/>
+					<tok id="833" type="atom" soff="2474" eoff="2477">他<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok><norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>r</f>
+						<f>mb_subj</f>
+						<f>modifier</f>
+					</fea>
+				</tok>
+				<lead/>
+				<tok id="837" type="group">
+					<foot/>
+					<tok id="835" type="atom" soff="2478" eoff="2481">数<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok>
+					<lead/>
+					<tok id="836" type="atom" soff="2482" eoff="2485">据<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok><norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>n</f>
+						<f>NN</f>
+						<f>head_w</f>
+						<f>mb_subj</f>
+					</fea>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>NP</f>
+				</fea>
+			</tok>
+			<tok id="838" type="atom" soff="2486" eoff="2489">，<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wd</f>
+					<f>NEORG_stopword</f>
+					<f>Cfin</f>
+				</fea>
+			</tok>
+			<tok id="839" type="atom" soff="2490" eoff="2493">盘<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>q</f>
+				</fea>
+			</tok>
+			<tok id="840" type="atom" soff="2494" eoff="2497">中<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>f</f>
+					<f>p_f</f>
+				</fea>
+			</tok>
+			<tok id="993" type="group">
+				<foot/>
+				<tok id="843" type="group">
+					<foot/>
+					<tok id="841" type="atom" soff="2498" eoff="2501">直<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok>
+					<lead/>
+					<tok id="842" type="atom" soff="2502" eoff="2505">播<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok><norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>vn</f>
+						<f>modifier</f>
+					</fea>
+				</tok>
+				<lead/>
+				<tok id="846" type="group">
+					<foot/>
+					<tok id="844" type="atom" soff="2506" eoff="2509">过<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok>
+					<lead/>
+					<tok id="845" type="atom" soff="2510" eoff="2513">程<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok><norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>n</f>
+						<f>NN</f>
+						<f>head_w</f>
+						<f>mb_subj</f>
+					</fea>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>NP</f>
+				</fea>
+			</tok>
+			<tok id="849" type="group">
+				<foot/>
+				<tok id="847" type="atom" soff="2514" eoff="2517">当<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="848" type="atom" soff="2518" eoff="2521">中<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>f</f>
+				</fea>
+			</tok>
+			<tok id="850" type="atom" soff="2522" eoff="2525">再<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>d</f>
+					<f>mb_ignore</f>
+				</fea>
+			</tok>
+			<tok id="853" type="group">
+				<foot/>
+				<tok id="851" type="atom" soff="2526" eoff="2529">给<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="852" type="atom" soff="2530" eoff="2533">予<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+				</fea>
+			</tok>
+			<tok id="856" type="group">
+				<foot/>
+				<tok id="854" type="atom" soff="2534" eoff="2537">纠<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="855" type="atom" soff="2538" eoff="2541">正<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>v</f>
+				</fea>
+			</tok>
+			<tok id="857" type="atom" soff="2542" eoff="2545">。<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wj</f>
+					<f>Sfin</f>
+					<f>NEORG_stopword</f>
+				</fea>
+			</tok>
+		</sentence>
+		<sentence number="19">
+			<tok id="858" type="atom" soff="0" eoff="0"><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>Sinitial</f>
+					<f>VirtualObject</f>
+				</fea>
+			</tok>
+			<tok id="994" type="group">
+				<foot/>
+				<tok id="859" type="atom" soff="2546" eoff="2549">一<norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>m</f>
+						<f>modifier</f>
+					</fea>
+				</tok>
+				<lead/>
+				<tok id="860" type="atom" soff="2550" eoff="2553">辉<norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>ng</f>
+						<f>NN</f>
+						<f>head_w</f>
+						<f>mb_subj</f>
+					</fea>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>NP</f>
+				</fea>
+			</tok>
+			<tok id="995" type="group">
+				<foot/>
+				<tok id="863" type="group">
+					<foot/>
+					<tok id="861" type="atom" soff="2554" eoff="2557">直<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok>
+					<lead/>
+					<tok id="862" type="atom" soff="2558" eoff="2561">播<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok><norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>vn</f>
+						<f>modifier</f>
+					</fea>
+				</tok>
+				<lead/>
+				<tok id="866" type="group">
+					<foot/>
+					<tok id="864" type="atom" soff="2562" eoff="2565">网<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok>
+					<lead/>
+					<tok id="865" type="atom" soff="2566" eoff="2569">址<norm/>
+						<tok-normal-forms/>
+						<fea/>
+					</tok><norm/>
+					<tok-normal-forms/>
+					<fea>
+						<f>n</f>
+						<f>NN</f>
+						<f>head_w</f>
+						<f>mb_subj</f>
+						<f>Qa_NeUrl</f>
+					</fea>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>NP</f>
+				</fea>
+			</tok>
+			<tok id="867" type="atom" soff="2570" eoff="2573">：<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wm</f>
+					<f>NEORG_stopword</f>
+				</fea>
+			</tok>
+			<tok id="873" type="group">
+				<foot/>
+				<tok id="868" type="atom" soff="2574" eoff="2575">h<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<tok id="869" type="atom" soff="2576" eoff="2577">t<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<tok id="870" type="atom" soff="2578" eoff="2579">t<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<tok id="871" type="atom" soff="2580" eoff="2581">p<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="872" type="atom" soff="2582" eoff="2583">:<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>nx</f>
+				</fea>
+			</tok>
+			<tok id="900" type="group">
+				<foot/>
+				<tok id="874" type="atom" soff="2584" eoff="2585">/<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<tok id="875" type="atom" soff="2586" eoff="2587">/<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<tok id="876" type="atom" soff="2588" eoff="2589">r<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<tok id="877" type="atom" soff="2590" eoff="2591">o<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<tok id="878" type="atom" soff="2592" eoff="2593">o<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<tok id="879" type="atom" soff="2594" eoff="2595">m<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<tok id="880" type="atom" soff="2596" eoff="2597">.<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<tok id="881" type="atom" soff="2598" eoff="2599">y<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<tok id="882" type="atom" soff="2600" eoff="2601">i<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<tok id="883" type="atom" soff="2602" eoff="2603">f<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<tok id="884" type="atom" soff="2604" eoff="2605">u<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<tok id="885" type="atom" soff="2606" eoff="2607">c<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<tok id="886" type="atom" soff="2608" eoff="2609">j<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<tok id="887" type="atom" soff="2610" eoff="2611">.<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<tok id="888" type="atom" soff="2612" eoff="2613">c<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<tok id="889" type="atom" soff="2614" eoff="2615">o<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<tok id="890" type="atom" soff="2616" eoff="2617">m<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<tok id="891" type="atom" soff="2618" eoff="2619">/<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<tok id="892" type="atom" soff="2620" eoff="2621">r<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<tok id="893" type="atom" soff="2622" eoff="2623">o<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<tok id="894" type="atom" soff="2624" eoff="2625">o<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<tok id="895" type="atom" soff="2626" eoff="2627">m<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<tok id="896" type="atom" soff="2628" eoff="2629">/<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<tok id="897" type="atom" soff="2630" eoff="2631">1<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<tok id="898" type="atom" soff="2632" eoff="2633">7<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok>
+				<lead/>
+				<tok id="899" type="atom" soff="2634" eoff="2635">2<norm/>
+					<tok-normal-forms/>
+					<fea/>
+				</tok><norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>nx</f>
+				</fea>
+			</tok>
+			<tok id="901" type="atom" soff="0" eoff="0">.<norm/>
+				<tok-normal-forms/>
+				<fea>
+					<f>w</f>
+					<f>wj</f>
+					<f>Sfin</f>
+					<f>NEORG_stopword</f>
+					<f>Pfin</f>
+					<f>VirtualObject</f>
+					<f>ArtificialToken</f>
+				</fea>
+			</tok>
+		</sentence>
+	</content>
+	<relations>
+		<rel id="1" type="M_H" from="4" to="7" weight="100.000000"/>
+		<rel id="2" type="H_M" from="7" to="4" weight="100.000000"/>
+		<rel id="3" type="H_PHRASE" from="7" to="961" weight="100.000000"/>
+		<rel id="4" type="PHRASE_H" from="961" to="7" weight="100.000000"/>
+		<rel id="5" type="M_H" from="23" to="24" weight="100.000000"/>
+		<rel id="6" type="H_M" from="24" to="23" weight="100.000000"/>
+		<rel id="7" type="H_PHRASE" from="24" to="962" weight="100.000000"/>
+		<rel id="8" type="PHRASE_H" from="962" to="24" weight="100.000000"/>
+		<rel id="9" type="M_H" from="44" to="45" weight="100.000000"/>
+		<rel id="10" type="H_M" from="45" to="44" weight="100.000000"/>
+		<rel id="11" type="H_PHRASE" from="45" to="963" weight="100.000000"/>
+		<rel id="12" type="PHRASE_H" from="963" to="45" weight="100.000000"/>
+		<rel id="13" type="M_H" from="69" to="72" weight="100.000000"/>
+		<rel id="14" type="H_M" from="72" to="69" weight="100.000000"/>
+		<rel id="15" type="H_PHRASE" from="72" to="964" weight="100.000000"/>
+		<rel id="16" type="PHRASE_H" from="964" to="72" weight="100.000000"/>
+		<rel id="17" type="M_H" from="148" to="151" weight="100.000000"/>
+		<rel id="18" type="H_M" from="151" to="148" weight="100.000000"/>
+		<rel id="19" type="H_PHRASE" from="151" to="965" weight="100.000000"/>
+		<rel id="20" type="PHRASE_H" from="965" to="151" weight="100.000000"/>
+		<rel id="21" type="M_H" from="170" to="174" weight="100.000000"/>
+		<rel id="22" type="H_M" from="174" to="170" weight="100.000000"/>
+		<rel id="23" type="H_PHRASE" from="174" to="966" weight="100.000000"/>
+		<rel id="24" type="PHRASE_H" from="966" to="174" weight="100.000000"/>
+		<rel id="25" type="M_H" from="178" to="181" weight="100.000000"/>
+		<rel id="26" type="H_M" from="181" to="178" weight="100.000000"/>
+		<rel id="27" type="H_PHRASE" from="181" to="967" weight="100.000000"/>
+		<rel id="28" type="PHRASE_H" from="967" to="181" weight="100.000000"/>
+		<rel id="29" type="M_H" from="237" to="238" weight="100.000000"/>
+		<rel id="30" type="H_M" from="238" to="237" weight="100.000000"/>
+		<rel id="31" type="H_PHRASE" from="238" to="968" weight="100.000000"/>
+		<rel id="32" type="PHRASE_H" from="968" to="238" weight="100.000000"/>
+		<rel id="33" type="M_H" from="246" to="247" weight="100.000000"/>
+		<rel id="34" type="H_M" from="247" to="246" weight="100.000000"/>
+		<rel id="35" type="H_PHRASE" from="247" to="969" weight="100.000000"/>
+		<rel id="36" type="PHRASE_H" from="969" to="247" weight="100.000000"/>
+		<rel id="37" type="M_H" from="265" to="266" weight="100.000000"/>
+		<rel id="38" type="H_M" from="266" to="265" weight="100.000000"/>
+		<rel id="39" type="H_PHRASE" from="266" to="970" weight="100.000000"/>
+		<rel id="40" type="PHRASE_H" from="970" to="266" weight="100.000000"/>
+		<rel id="41" type="M_H" from="276" to="279" weight="100.000000"/>
+		<rel id="42" type="H_M" from="279" to="276" weight="100.000000"/>
+		<rel id="43" type="H_PHRASE" from="279" to="971" weight="100.000000"/>
+		<rel id="44" type="PHRASE_H" from="971" to="279" weight="100.000000"/>
+		<rel id="45" type="M_H" from="284" to="287" weight="100.000000"/>
+		<rel id="46" type="H_M" from="287" to="284" weight="100.000000"/>
+		<rel id="47" type="H_PHRASE" from="287" to="972" weight="100.000000"/>
+		<rel id="48" type="PHRASE_H" from="972" to="287" weight="100.000000"/>
+		<rel id="49" type="M_H" from="291" to="294" weight="100.000000"/>
+		<rel id="50" type="H_M" from="294" to="291" weight="100.000000"/>
+		<rel id="51" type="H_PHRASE" from="294" to="973" weight="100.000000"/>
+		<rel id="52" type="PHRASE_H" from="973" to="294" weight="100.000000"/>
+		<rel id="53" type="M_H" from="315" to="319" weight="100.000000"/>
+		<rel id="54" type="H_M" from="319" to="315" weight="100.000000"/>
+		<rel id="55" type="H_PHRASE" from="319" to="974" weight="100.000000"/>
+		<rel id="56" type="PHRASE_H" from="974" to="319" weight="100.000000"/>
+		<rel id="57" type="M_H" from="337" to="340" weight="100.000000"/>
+		<rel id="58" type="H_M" from="340" to="337" weight="100.000000"/>
+		<rel id="59" type="H_PHRASE" from="340" to="975" weight="100.000000"/>
+		<rel id="60" type="PHRASE_H" from="975" to="340" weight="100.000000"/>
+		<rel id="61" type="M_H" from="365" to="368" weight="100.000000"/>
+		<rel id="62" type="H_M" from="368" to="365" weight="100.000000"/>
+		<rel id="63" type="H_PHRASE" from="368" to="976" weight="100.000000"/>
+		<rel id="64" type="PHRASE_H" from="976" to="368" weight="100.000000"/>
+		<rel id="65" type="M_H" from="379" to="382" weight="100.000000"/>
+		<rel id="66" type="H_M" from="382" to="379" weight="100.000000"/>
+		<rel id="67" type="H_PHRASE" from="382" to="977" weight="100.000000"/>
+		<rel id="68" type="PHRASE_H" from="977" to="382" weight="100.000000"/>
+		<rel id="69" type="M_H" from="392" to="395" weight="100.000000"/>
+		<rel id="70" type="H_M" from="395" to="392" weight="100.000000"/>
+		<rel id="71" type="H_PHRASE" from="395" to="978" weight="100.000000"/>
+		<rel id="72" type="PHRASE_H" from="978" to="395" weight="100.000000"/>
+		<rel id="73" type="M_H" from="449" to="452" weight="100.000000"/>
+		<rel id="74" type="H_M" from="452" to="449" weight="100.000000"/>
+		<rel id="75" type="H_PHRASE" from="452" to="979" weight="100.000000"/>
+		<rel id="76" type="PHRASE_H" from="979" to="452" weight="100.000000"/>
+		<rel id="77" type="M_H" from="502" to="503" weight="100.000000"/>
+		<rel id="78" type="H_M" from="503" to="502" weight="100.000000"/>
+		<rel id="79" type="H_PHRASE" from="503" to="980" weight="100.000000"/>
+		<rel id="80" type="PHRASE_H" from="980" to="503" weight="100.000000"/>
+		<rel id="81" type="M_H" from="541" to="544" weight="100.000000"/>
+		<rel id="82" type="H_M" from="544" to="541" weight="100.000000"/>
+		<rel id="83" type="H_PHRASE" from="544" to="981" weight="100.000000"/>
+		<rel id="84" type="PHRASE_H" from="981" to="544" weight="100.000000"/>
+		<rel id="85" type="M_H" from="555" to="558" weight="100.000000"/>
+		<rel id="86" type="H_M" from="558" to="555" weight="100.000000"/>
+		<rel id="87" type="H_PHRASE" from="558" to="982" weight="100.000000"/>
+		<rel id="88" type="PHRASE_H" from="982" to="558" weight="100.000000"/>
+		<rel id="89" type="M_H" from="637" to="640" weight="100.000000"/>
+		<rel id="90" type="H_M" from="640" to="637" weight="100.000000"/>
+		<rel id="91" type="H_PHRASE" from="640" to="983" weight="100.000000"/>
+		<rel id="92" type="PHRASE_H" from="983" to="640" weight="100.000000"/>
+		<rel id="93" type="M_H" from="676" to="679" weight="100.000000"/>
+		<rel id="94" type="H_M" from="679" to="676" weight="100.000000"/>
+		<rel id="95" type="H_PHRASE" from="679" to="984" weight="100.000000"/>
+		<rel id="96" type="PHRASE_H" from="984" to="679" weight="100.000000"/>
+		<rel id="97" type="M_H" from="705" to="706" weight="100.000000"/>
+		<rel id="98" type="H_M" from="706" to="705" weight="100.000000"/>
+		<rel id="99" type="H_PHRASE" from="706" to="985" weight="100.000000"/>
+		<rel id="100" type="PHRASE_H" from="985" to="706" weight="100.000000"/>
+		<rel id="101" type="M_H" from="710" to="713" weight="100.000000"/>
+		<rel id="102" type="H_M" from="713" to="710" weight="100.000000"/>
+		<rel id="103" type="H_PHRASE" from="713" to="986" weight="100.000000"/>
+		<rel id="104" type="PHRASE_H" from="986" to="713" weight="100.000000"/>
+		<rel id="105" type="M_H" from="722" to="723" weight="100.000000"/>
+		<rel id="106" type="H_M" from="723" to="722" weight="100.000000"/>
+		<rel id="107" type="H_PHRASE" from="723" to="987" weight="100.000000"/>
+		<rel id="108" type="PHRASE_H" from="987" to="723" weight="100.000000"/>
+		<rel id="109" type="M_H" from="733" to="736" weight="100.000000"/>
+		<rel id="110" type="H_M" from="736" to="733" weight="100.000000"/>
+		<rel id="111" type="H_PHRASE" from="736" to="988" weight="100.000000"/>
+		<rel id="112" type="PHRASE_H" from="988" to="736" weight="100.000000"/>
+		<rel id="113" type="H_PHRASE" from="792" to="989" weight="100.000000"/>
+		<rel id="114" type="PHRASE_H" from="989" to="792" weight="100.000000"/>
+		<rel id="115" type="M_H" from="803" to="808" weight="100.000000"/>
+		<rel id="116" type="H_M" from="808" to="803" weight="100.000000"/>
+		<rel id="117" type="H_PHRASE" from="808" to="990" weight="100.000000"/>
+		<rel id="118" type="PHRASE_H" from="990" to="808" weight="100.000000"/>
+		<rel id="119" type="M_H" from="821" to="820" weight="100.000000"/>
+		<rel id="120" type="H_M" from="820" to="821" weight="100.000000"/>
+		<rel id="121" type="H_PHRASE" from="820" to="991" weight="100.000000"/>
+		<rel id="122" type="PHRASE_H" from="991" to="820" weight="100.000000"/>
+		<rel id="123" type="M_H" from="834" to="837" weight="100.000000"/>
+		<rel id="124" type="H_M" from="837" to="834" weight="100.000000"/>
+		<rel id="125" type="H_PHRASE" from="837" to="992" weight="100.000000"/>
+		<rel id="126" type="PHRASE_H" from="992" to="837" weight="100.000000"/>
+		<rel id="127" type="M_H" from="843" to="846" weight="100.000000"/>
+		<rel id="128" type="H_M" from="846" to="843" weight="100.000000"/>
+		<rel id="129" type="H_PHRASE" from="846" to="993" weight="100.000000"/>
+		<rel id="130" type="PHRASE_H" from="993" to="846" weight="100.000000"/>
+		<rel id="131" type="M_H" from="859" to="860" weight="100.000000"/>
+		<rel id="132" type="H_M" from="860" to="859" weight="100.000000"/>
+		<rel id="133" type="H_PHRASE" from="860" to="994" weight="100.000000"/>
+		<rel id="134" type="PHRASE_H" from="994" to="860" weight="100.000000"/>
+		<rel id="135" type="M_H" from="863" to="866" weight="100.000000"/>
+		<rel id="136" type="H_M" from="866" to="863" weight="100.000000"/>
+		<rel id="137" type="H_PHRASE" from="866" to="995" weight="100.000000"/>
+		<rel id="138" type="PHRASE_H" from="995" to="866" weight="100.000000"/>
+	</relations>
+	<normal-forms/>
+</document>
