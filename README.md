@@ -15,6 +15,6 @@ Sentiment
 
 >Sentiment_Dictionary为台湾大学情感词典，在训练模型时进行情感词筛选用到
 
->模型训练结果保存在NegativeModel.txt PositiveModel.txt UnsureModel.txt
+>模型训练结果保存在NegativeModel.txt    PositiveModel.txt     UnsureModel.txt
 
->文本分类程序在初始会读取模型
+>文本分类程序在初始会读取模型, 依据朴素贝叶斯算法进行文本分类
